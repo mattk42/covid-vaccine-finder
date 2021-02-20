@@ -296,11 +296,10 @@
               <h5 class="modal-title" id="notificationModalLabel">Notifications</h5>                                                                                                                                                                       <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-		// TODO MAKE THIS DYNAMIC
-              <form action="https://09n9hhxeie.execute-api.us-east-2.amazonaws.com/dev/register" method="POST">
+              <form>
                 <div class="mb-3">
                   <label for="Email1" class="form-label">Email address</label> 
-                  <input name="email" type="email" class="form-control" id="inputEmail1">                                                                                                                                                                                 </div>
+                  <input type="email" class="form-control" id="inputEmail1">                                                                                                                                                                                 </div>
                 
                   <h5>Select stores to notify for:</h5>
                   <div class="accordion" id="cvsAccordian">
@@ -314,13 +313,13 @@
                         <div class="accordion-body">
                           
                           
-                            <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-AURORA" id="cvs_cities/CO-AURORA">
+                            <input type="checkbox" class="form-check-input" id="cvs_cities/CO-AURORA">
                             <label class="form-check-label" for="cvs_cities/CO-AURORA">AURORA, CO</label><br>
                           
-                            <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-GLENDALE" id="cvs_cities/CO-GLENDALE">
+                            <input type="checkbox" class="form-check-input" id="cvs_cities/CO-GLENDALE">
                             <label class="form-check-label" for="cvs_cities/CO-GLENDALE">GLENDALE, CO</label><br>
                           
-                            <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-GREELEY" id="cvs_cities/CO-GREELEY">
+                            <input type="checkbox" class="form-check-input" id="cvs_cities/CO-GREELEY">
                             <label class="form-check-label" for="cvs_cities/CO-GREELEY">GREELEY, CO</label><br>
                           
                         </div>
@@ -351,20 +350,20 @@
                           Walgreens
                         </button>
                       </h2>
-                      <div id="collapseWalgreens" class="accordion-collapse collapse show" aria-labelledby="headingWalgreens" data-bs-parent="#walgreensAccordian">
+                      <div id="collapseWalgreens" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#walgreensAccordian">
                         <div class="accordion-body">
                           
                           
-                            <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="10307" id="walgreens_stores/10307">
+                            <input type="checkbox" class="form-check-input" id="walgreens_stores/10307">
                             <label class="form-check-label" for="walgreens_stores/10307">240 W PARK DR, GRAND JUNCTION, CO 81505</label><br>
                           
-                            <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="11187" id="walgreens_stores/11187">
+                            <input type="checkbox" class="form-check-input" id="walgreens_stores/11187">
                             <label class="form-check-label" for="walgreens_stores/11187">316 W ASPEN AVE, FRUITA, CO 81521</label><br>
                           
-                            <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="6108" id="walgreens_stores/6108">
+                            <input type="checkbox" class="form-check-input" id="walgreens_stores/6108">
                             <label class="form-check-label" for="walgreens_stores/6108">572 32 RD, CLIFTON, CO 81520</label><br>
                           
-                            <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="9769" id="walgreens_stores/9769">
+                            <input type="checkbox" class="form-check-input" id="walgreens_stores/9769">
                             <label class="form-check-label" for="walgreens_stores/9769">2900 NORTH AVE, GRAND JUNCTION, CO 81504</label><br>
                           
                         </div>
@@ -383,19 +382,19 @@
                         <div class="accordion-body">
                           
                           
-                            <input type="checkbox" class="form-check-input" name="walmartStores[]" value="1008" id="walmart_stores/1008">
+                            <input type="checkbox" class="form-check-input" id="walmart_stores/1008">
                             <label class="form-check-label" for="walmart_stores/1008">Loveland Supercenter #250 W 65th St, Loveland, CO 80538</label><br>
                           
-                            <input type="checkbox" class="form-check-input" name="walmartStores[]" value="2729" id="walmart_stores/2729">
+                            <input type="checkbox" class="form-check-input" id="walmart_stores/2729">
                             <label class="form-check-label" for="walmart_stores/2729">Fort Collins Supercenter #1250 E Magnolia St, Fort Collins, CO 80524</label><br>
                           
-                            <input type="checkbox" class="form-check-input" name="walmartStores[]" value="3177" id="walmart_stores/3177">
+                            <input type="checkbox" class="form-check-input" id="walmart_stores/3177">
                             <label class="form-check-label" for="walmart_stores/3177">Fort Collins Supercenter #4625 S Mason St, Fort Collins, CO 80525</label><br>
                           
-                            <input type="checkbox" class="form-check-input" name="walmartStores[]" value="4599" id="walmart_stores/4599">
+                            <input type="checkbox" class="form-check-input" id="walmart_stores/4599">
                             <label class="form-check-label" for="walmart_stores/4599">Timnath Supercenter #4500 Weitzel St, Timnath, CO 80547</label><br>
                           
-                            <input type="checkbox" class="form-check-input" name="walmartStores[]" value="953" id="walmart_stores/953">
+                            <input type="checkbox" class="form-check-input" id="walmart_stores/953">
                             <label class="form-check-label" for="walmart_stores/953">Loveland Supercenter #1325 Denver Ave, Loveland, CO 80537</label><br>
                           
                         </div>
