@@ -1,2 +1,7014 @@
 [
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"01007084-0000-0700-0000-6031969b0000\"",
+    "_rid": "HkV9AKyFQoMEAAAAAAAAAA==",
+    "_self": "dbs/HkV9AA==/colls/HkV9AKyFQoM=/docs/HkV9AKyFQoMEAAAAAAAAAA==/",
+    "_ts": 1613862555,
+    "address": {
+      "address": "250 W 65th St",
+      "city": "Loveland",
+      "country": "US",
+      "postalCode": "80538",
+      "state": "CO"
+    },
+    "buId": "0",
+    "deleted": false,
+    "detailsPageURL": "http://www.walmart.com/store/1008",
+    "displayName": "Loveland Supercenter",
+    "distance": 5.08,
+    "featuredServices": [
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pharmacy",
+        "displayOrder": 3,
+        "groupName": "Health and Wellness",
+        "id": "21",
+        "name": "PHARMACY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pharmacy Drive-Thru",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "850",
+        "name": "PHARMACY_DRIVE_THRU",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "3",
+        "name": "GROCERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "304",
+        "name": "GROCERY_PICKUP",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Photo Center",
+        "displayOrder": 5,
+        "groupName": "Photo Center",
+        "id": "8",
+        "name": "PHOTO_CENTER",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "1-Hour Photo Center",
+        "displayOrder": 0,
+        "groupName": "Photo Center",
+        "id": "7",
+        "name": "PHOTO_CENTER_ONE_HOUR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup",
+        "displayOrder": 7,
+        "groupName": "Walmart.com Services",
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Auto Care Center",
+        "displayOrder": 4,
+        "groupName": "Auto Care",
+        "id": "22",
+        "name": "TIRE_AND_LUBE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Vision Center",
+        "displayOrder": 6,
+        "groupName": "Health and Wellness",
+        "id": "4",
+        "name": "VISION_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": true,
+            "endHr": null,
+            "openFullDay": null,
+            "startHr": null
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": true,
+            "endHr": null,
+            "openFullDay": null,
+            "startHr": null
+          }
+        }
+      }
+    ],
+    "gecOrgId": "84dc2ea8-524d-4561-b481-208b53e8ddd3",
+    "geoPoint": {
+      "latitude": 40.456889,
+      "longitude": -105.080953
+    },
+    "id": "1008",
+    "kiosk": false,
+    "openDate": "03/03/1987 00:00",
+    "operationalHours": {
+      "monToFriHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "open24Hours": null,
+      "saturdayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "sundayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "temporaryHours": null,
+      "todayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "tomorrowHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      }
+    },
+    "phone": "970-667-3331",
+    "services": [
+      {
+        "active": true,
+        "customCakes": true,
+        "displayName": "Bakery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "290",
+        "name": "BAKERY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Beer",
+        "displayOrder": 8,
+        "groupName": "Alcohol",
+        "id": "284",
+        "name": "BEER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bill Payment",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "72",
+        "name": "BILL_PAYMENT",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bluebird by American Express",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "73",
+        "name": "BLUEBIRD_BY_AMERICAN_EXPRESS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Burger King",
+        "displayOrder": 0,
+        "groupName": "Restaurants",
+        "id": "339",
+        "name": "BURGER_KING",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:30"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:30"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:30"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:30"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:30"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Check Cashing",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "87",
+        "name": "CHECK_CASHING",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Coinstar",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "34",
+        "name": "COINSTAR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Deli",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "289",
+        "name": "DELI",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Gameplay",
+        "displayOrder": 0,
+        "groupName": "Entertainment",
+        "id": "393",
+        "name": "GAMEPLAY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Garden Center",
+        "displayOrder": 0,
+        "groupName": "Garden Center",
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup and Delivery",
+        "displayOrder": 1,
+        "groupName": "Grocery",
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Flu Shots and Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "liquor",
+        "displayOrder": 0,
+        "groupName": "Alcohol",
+        "id": "835",
+        "name": "LIQUOR",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": true,
+            "startHr": "00:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": true,
+            "startHr": "00:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Order",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "198",
+        "name": "MONEY_ORDER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Transfer",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "199",
+        "name": "MONEY_TRANSFER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "PickUp Together",
+        "displayOrder": 0,
+        "groupName": "Walmart.com Services",
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup Today",
+        "displayOrder": 2,
+        "groupName": "Walmart.com Services",
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "35",
+        "name": "REDBOX",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "SmartStyle Hair Salon by Regis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "700",
+        "name": "SMART_STYLE_HAIR_SALON",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Walmart MoneyCard",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "276",
+        "name": "WALMART_MONEYCARD",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Wireless Services",
+        "displayOrder": 0,
+        "groupName": "Electronics & Home Office",
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      }
+    ],
+    "servicesMap": {
+      "BAKERY": {
+        "active": true,
+        "customCakes": true,
+        "displayName": "Bakery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "290",
+        "name": "BAKERY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      "BEER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Beer",
+        "displayOrder": 8,
+        "groupName": "Alcohol",
+        "id": "284",
+        "name": "BEER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BILL_PAYMENT": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bill Payment",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "72",
+        "name": "BILL_PAYMENT",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BLUEBIRD_BY_AMERICAN_EXPRESS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bluebird by American Express",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "73",
+        "name": "BLUEBIRD_BY_AMERICAN_EXPRESS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BURGER_KING": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Burger King",
+        "displayOrder": 0,
+        "groupName": "Restaurants",
+        "id": "339",
+        "name": "BURGER_KING",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:30"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:30"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:30"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:30"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:30"
+          }
+        }
+      },
+      "CHECK_CASHING": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Check Cashing",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "87",
+        "name": "CHECK_CASHING",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "COINSTAR": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Coinstar",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "34",
+        "name": "COINSTAR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "DELI": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Deli",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "289",
+        "name": "DELI",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "GAMEPLAY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Gameplay",
+        "displayOrder": 0,
+        "groupName": "Entertainment",
+        "id": "393",
+        "name": "GAMEPLAY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "GARDEN_CENTER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Garden Center",
+        "displayOrder": 0,
+        "groupName": "Garden Center",
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "GROCERY_PICKUP_DELIVERY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup and Delivery",
+        "displayOrder": 1,
+        "groupName": "Grocery",
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "IMMUNIZATIONS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Flu Shots and Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "LIQUOR": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "liquor",
+        "displayOrder": 0,
+        "groupName": "Alcohol",
+        "id": "835",
+        "name": "LIQUOR",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": true,
+            "startHr": "00:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": true,
+            "startHr": "00:00"
+          }
+        }
+      },
+      "MONEY_ORDER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Order",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "198",
+        "name": "MONEY_ORDER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "MONEY_TRANSFER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Transfer",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "199",
+        "name": "MONEY_TRANSFER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "PICKUP_TOGETHER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "PickUp Together",
+        "displayOrder": 0,
+        "groupName": "Walmart.com Services",
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "PICK_UP_TODAY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup Today",
+        "displayOrder": 2,
+        "groupName": "Walmart.com Services",
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "REDBOX": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "35",
+        "name": "REDBOX",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "SMART_STYLE_HAIR_SALON": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "SmartStyle Hair Salon by Regis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "700",
+        "name": "SMART_STYLE_HAIR_SALON",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      },
+      "WALMART_MONEYCARD": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Walmart MoneyCard",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "276",
+        "name": "WALMART_MONEYCARD",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "WIRELESS_MOBILE": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Wireless Services",
+        "displayOrder": 0,
+        "groupName": "Electronics & Home Office",
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      }
+    },
+    "storeType": {
+      "displayName": "Supercenter",
+      "id": "1",
+      "name": "Walmart Supercenter"
+    },
+    "timeZone": "America/Denver",
+    "utcOffsetMinutes": -420
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"01006a84-0000-0700-0000-6031969b0000\"",
+    "_rid": "HkV9AKyFQoMCAAAAAAAAAA==",
+    "_self": "dbs/HkV9AA==/colls/HkV9AKyFQoM=/docs/HkV9AKyFQoMCAAAAAAAAAA==/",
+    "_ts": 1613862555,
+    "address": {
+      "address": "1250 E Magnolia St",
+      "city": "Fort Collins",
+      "country": "US",
+      "postalCode": "80524",
+      "state": "CO"
+    },
+    "buId": "0",
+    "deleted": false,
+    "detailsPageURL": "http://www.walmart.com/store/2729",
+    "displayName": "Fort Collins Supercenter",
+    "distance": 3.97,
+    "featuredServices": [
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pharmacy",
+        "displayOrder": 3,
+        "groupName": "Health and Wellness",
+        "id": "21",
+        "name": "PHARMACY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "3",
+        "name": "GROCERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Photo Center",
+        "displayOrder": 4,
+        "groupName": "Photo Center",
+        "id": "8",
+        "name": "PHOTO_CENTER",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "1-Hour Photo Center",
+        "displayOrder": 0,
+        "groupName": "Photo Center",
+        "id": "7",
+        "name": "PHOTO_CENTER_ONE_HOUR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup",
+        "displayOrder": 6,
+        "groupName": "Walmart.com Services",
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Vision Center",
+        "displayOrder": 5,
+        "groupName": "Health and Wellness",
+        "id": "4",
+        "name": "VISION_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": true,
+            "endHr": null,
+            "openFullDay": null,
+            "startHr": null
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": true,
+            "endHr": null,
+            "openFullDay": null,
+            "startHr": null
+          }
+        }
+      }
+    ],
+    "gecOrgId": "936f775d-1ccb-4349-8a8e-23300d079195",
+    "geoPoint": {
+      "latitude": 40.586243,
+      "longitude": -105.054716
+    },
+    "id": "2729",
+    "kiosk": false,
+    "openDate": "10/24/2001 00:00",
+    "operationalHours": {
+      "monToFriHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "open24Hours": null,
+      "saturdayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "sundayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "temporaryHours": null,
+      "todayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "tomorrowHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      }
+    },
+    "phone": "970-493-3048",
+    "services": [
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Academy Bank",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "45",
+        "name": "ACADEMY_BANK",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": true,
+        "displayName": "Bakery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "290",
+        "name": "BAKERY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Beer",
+        "displayOrder": 7,
+        "groupName": "Alcohol",
+        "id": "284",
+        "name": "BEER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bill Payment",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "72",
+        "name": "BILL_PAYMENT",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bluebird by American Express",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "73",
+        "name": "BLUEBIRD_BY_AMERICAN_EXPRESS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Budget Car Rental",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "337",
+        "name": "BUDGET_CAR_RENTAL",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Cellairis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "344",
+        "name": "CELLAIRIS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Check Cashing",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "87",
+        "name": "CHECK_CASHING",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Coinstar",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "34",
+        "name": "COINSTAR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "COVID Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "852",
+        "name": "COVID_IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Deli",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "289",
+        "name": "DELI",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Garden Center",
+        "displayOrder": 0,
+        "groupName": "Garden Center",
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup and Delivery",
+        "displayOrder": 1,
+        "groupName": "Grocery",
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Flu Shots and Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "liquor",
+        "displayOrder": 0,
+        "groupName": "Alcohol",
+        "id": "835",
+        "name": "LIQUOR",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Center",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "197",
+        "name": "MONEY_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Order",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "198",
+        "name": "MONEY_ORDER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Transfer",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "199",
+        "name": "MONEY_TRANSFER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "PickUp Together",
+        "displayOrder": 0,
+        "groupName": "Walmart.com Services",
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup Today",
+        "displayOrder": 2,
+        "groupName": "Walmart.com Services",
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox - Kiosk A",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "836",
+        "name": "REDBOX_A",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox - Kiosk B",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "833",
+        "name": "REDBOX_B",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "SmartStyle Hair Salon by Regis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "700",
+        "name": "SMART_STYLE_HAIR_SALON",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Subway",
+        "displayOrder": 0,
+        "groupName": "Restaurants",
+        "id": "23",
+        "name": "SUBWAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Walmart MoneyCard",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "276",
+        "name": "WALMART_MONEYCARD",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Wireless Services",
+        "displayOrder": 0,
+        "groupName": "Electronics & Home Office",
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      }
+    ],
+    "servicesMap": {
+      "ACADEMY_BANK": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Academy Bank",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "45",
+        "name": "ACADEMY_BANK",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BAKERY": {
+        "active": true,
+        "customCakes": true,
+        "displayName": "Bakery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "290",
+        "name": "BAKERY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      "BEER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Beer",
+        "displayOrder": 7,
+        "groupName": "Alcohol",
+        "id": "284",
+        "name": "BEER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BILL_PAYMENT": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bill Payment",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "72",
+        "name": "BILL_PAYMENT",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BLUEBIRD_BY_AMERICAN_EXPRESS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bluebird by American Express",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "73",
+        "name": "BLUEBIRD_BY_AMERICAN_EXPRESS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BUDGET_CAR_RENTAL": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Budget Car Rental",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "337",
+        "name": "BUDGET_CAR_RENTAL",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "CELLAIRIS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Cellairis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "344",
+        "name": "CELLAIRIS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "CHECK_CASHING": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Check Cashing",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "87",
+        "name": "CHECK_CASHING",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "COINSTAR": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Coinstar",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "34",
+        "name": "COINSTAR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "COVID_IMMUNIZATIONS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "COVID Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "852",
+        "name": "COVID_IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "DELI": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Deli",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "289",
+        "name": "DELI",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "GARDEN_CENTER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Garden Center",
+        "displayOrder": 0,
+        "groupName": "Garden Center",
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "GROCERY_PICKUP_DELIVERY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup and Delivery",
+        "displayOrder": 1,
+        "groupName": "Grocery",
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "IMMUNIZATIONS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Flu Shots and Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "LIQUOR": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "liquor",
+        "displayOrder": 0,
+        "groupName": "Alcohol",
+        "id": "835",
+        "name": "LIQUOR",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "MONEY_CENTER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Center",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "197",
+        "name": "MONEY_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "MONEY_ORDER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Order",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "198",
+        "name": "MONEY_ORDER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "MONEY_TRANSFER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Transfer",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "199",
+        "name": "MONEY_TRANSFER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "PICKUP_TOGETHER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "PickUp Together",
+        "displayOrder": 0,
+        "groupName": "Walmart.com Services",
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "PICK_UP_TODAY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup Today",
+        "displayOrder": 2,
+        "groupName": "Walmart.com Services",
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "REDBOX_A": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox - Kiosk A",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "836",
+        "name": "REDBOX_A",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "REDBOX_B": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox - Kiosk B",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "833",
+        "name": "REDBOX_B",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "SMART_STYLE_HAIR_SALON": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "SmartStyle Hair Salon by Regis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "700",
+        "name": "SMART_STYLE_HAIR_SALON",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      "SUBWAY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Subway",
+        "displayOrder": 0,
+        "groupName": "Restaurants",
+        "id": "23",
+        "name": "SUBWAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "WALMART_MONEYCARD": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Walmart MoneyCard",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "276",
+        "name": "WALMART_MONEYCARD",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "WIRELESS_MOBILE": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Wireless Services",
+        "displayOrder": 0,
+        "groupName": "Electronics & Home Office",
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      }
+    },
+    "storeType": {
+      "displayName": "Supercenter",
+      "id": "1",
+      "name": "Walmart Supercenter"
+    },
+    "timeZone": "America/Denver",
+    "utcOffsetMinutes": -420
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"01006584-0000-0700-0000-6031969a0000\"",
+    "_rid": "HkV9AKyFQoMBAAAAAAAAAA==",
+    "_self": "dbs/HkV9AA==/colls/HkV9AKyFQoM=/docs/HkV9AKyFQoMBAAAAAAAAAA==/",
+    "_ts": 1613862554,
+    "address": {
+      "address": "4625 S Mason St",
+      "city": "Fort Collins",
+      "country": "US",
+      "postalCode": "80525",
+      "state": "CO"
+    },
+    "buId": "0",
+    "deleted": false,
+    "detailsPageURL": "http://www.walmart.com/store/3177",
+    "displayName": "Fort Collins Supercenter",
+    "distance": 0.78,
+    "featuredServices": [
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pharmacy",
+        "displayOrder": 3,
+        "groupName": "Health and Wellness",
+        "id": "21",
+        "name": "PHARMACY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "3",
+        "name": "GROCERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Photo Center",
+        "displayOrder": 4,
+        "groupName": "Photo Center",
+        "id": "8",
+        "name": "PHOTO_CENTER",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "1-Hour Photo Center",
+        "displayOrder": 0,
+        "groupName": "Photo Center",
+        "id": "7",
+        "name": "PHOTO_CENTER_ONE_HOUR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup",
+        "displayOrder": 5,
+        "groupName": "Walmart.com Services",
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      }
+    ],
+    "gecOrgId": "ac5caa1c-cd68-459f-8ed4-e3260c9b445e",
+    "geoPoint": {
+      "latitude": 40.521308,
+      "longitude": -105.079542
+    },
+    "id": "3177",
+    "kiosk": false,
+    "openDate": "04/24/2013 00:00",
+    "operationalHours": {
+      "monToFriHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "open24Hours": null,
+      "saturdayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "sundayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "temporaryHours": null,
+      "todayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "tomorrowHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      }
+    },
+    "phone": "970-372-3477",
+    "services": [
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bakery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "290",
+        "name": "BAKERY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Beer",
+        "displayOrder": 6,
+        "groupName": "Alcohol",
+        "id": "284",
+        "name": "BEER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bill Payment",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "72",
+        "name": "BILL_PAYMENT",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bluebird by American Express",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "73",
+        "name": "BLUEBIRD_BY_AMERICAN_EXPRESS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Check Cashing",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "87",
+        "name": "CHECK_CASHING",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Coinstar",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "34",
+        "name": "COINSTAR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Deli",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "289",
+        "name": "DELI",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Garden Center",
+        "displayOrder": 0,
+        "groupName": "Garden Center",
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup and Delivery",
+        "displayOrder": 1,
+        "groupName": "Grocery",
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Flu Shots and Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "liquor",
+        "displayOrder": 0,
+        "groupName": "Alcohol",
+        "id": "835",
+        "name": "LIQUOR",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Order",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "198",
+        "name": "MONEY_ORDER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Transfer",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "199",
+        "name": "MONEY_TRANSFER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "PickUp Together",
+        "displayOrder": 0,
+        "groupName": "Walmart.com Services",
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup Today",
+        "displayOrder": 2,
+        "groupName": "Walmart.com Services",
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Quick Tag",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "297",
+        "name": "QUICK_TAG",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "35",
+        "name": "REDBOX",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Walmart MoneyCard",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "276",
+        "name": "WALMART_MONEYCARD",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Wireless Services",
+        "displayOrder": 0,
+        "groupName": "Electronics & Home Office",
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      }
+    ],
+    "servicesMap": {
+      "BAKERY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bakery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "290",
+        "name": "BAKERY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      "BEER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Beer",
+        "displayOrder": 6,
+        "groupName": "Alcohol",
+        "id": "284",
+        "name": "BEER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BILL_PAYMENT": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bill Payment",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "72",
+        "name": "BILL_PAYMENT",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BLUEBIRD_BY_AMERICAN_EXPRESS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bluebird by American Express",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "73",
+        "name": "BLUEBIRD_BY_AMERICAN_EXPRESS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "CHECK_CASHING": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Check Cashing",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "87",
+        "name": "CHECK_CASHING",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "COINSTAR": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Coinstar",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "34",
+        "name": "COINSTAR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "DELI": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Deli",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "289",
+        "name": "DELI",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "GARDEN_CENTER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Garden Center",
+        "displayOrder": 0,
+        "groupName": "Garden Center",
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "GROCERY_PICKUP_DELIVERY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup and Delivery",
+        "displayOrder": 1,
+        "groupName": "Grocery",
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "IMMUNIZATIONS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Flu Shots and Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "LIQUOR": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "liquor",
+        "displayOrder": 0,
+        "groupName": "Alcohol",
+        "id": "835",
+        "name": "LIQUOR",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "MONEY_ORDER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Order",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "198",
+        "name": "MONEY_ORDER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "MONEY_TRANSFER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Transfer",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "199",
+        "name": "MONEY_TRANSFER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "PICKUP_TOGETHER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "PickUp Together",
+        "displayOrder": 0,
+        "groupName": "Walmart.com Services",
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "PICK_UP_TODAY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup Today",
+        "displayOrder": 2,
+        "groupName": "Walmart.com Services",
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "QUICK_TAG": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Quick Tag",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "297",
+        "name": "QUICK_TAG",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "REDBOX": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "35",
+        "name": "REDBOX",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "WALMART_MONEYCARD": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Walmart MoneyCard",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "276",
+        "name": "WALMART_MONEYCARD",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "WIRELESS_MOBILE": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Wireless Services",
+        "displayOrder": 0,
+        "groupName": "Electronics & Home Office",
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      }
+    },
+    "storeType": {
+      "displayName": "Supercenter",
+      "id": "1",
+      "name": "Walmart Supercenter"
+    },
+    "timeZone": "America/Denver",
+    "utcOffsetMinutes": -420
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"01006f84-0000-0700-0000-6031969b0000\"",
+    "_rid": "HkV9AKyFQoMDAAAAAAAAAA==",
+    "_self": "dbs/HkV9AA==/colls/HkV9AKyFQoM=/docs/HkV9AKyFQoMDAAAAAAAAAA==/",
+    "_ts": 1613862555,
+    "address": {
+      "address": "4500 Weitzel St",
+      "city": "Timnath",
+      "country": "US",
+      "postalCode": "80547",
+      "state": "CO"
+    },
+    "buId": "0",
+    "deleted": false,
+    "detailsPageURL": "http://www.walmart.com/store/4599",
+    "displayName": "Timnath Supercenter",
+    "distance": 4.19,
+    "featuredServices": [
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pharmacy",
+        "displayOrder": 3,
+        "groupName": "Health and Wellness",
+        "id": "21",
+        "name": "PHARMACY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pharmacy Drive-Thru",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "850",
+        "name": "PHARMACY_DRIVE_THRU",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "3",
+        "name": "GROCERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Photo Center",
+        "displayOrder": 4,
+        "groupName": "Photo Center",
+        "id": "8",
+        "name": "PHOTO_CENTER",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "1-Hour Photo Center",
+        "displayOrder": 0,
+        "groupName": "Photo Center",
+        "id": "7",
+        "name": "PHOTO_CENTER_ONE_HOUR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup",
+        "displayOrder": 6,
+        "groupName": "Walmart.com Services",
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Vision Center",
+        "displayOrder": 5,
+        "groupName": "Health and Wellness",
+        "id": "4",
+        "name": "VISION_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": true,
+            "endHr": null,
+            "openFullDay": null,
+            "startHr": null
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": true,
+            "endHr": null,
+            "openFullDay": null,
+            "startHr": null
+          }
+        }
+      }
+    ],
+    "gecOrgId": "5642fa48-8417-4fa2-a32a-898986e32cde",
+    "geoPoint": {
+      "latitude": 40.52654,
+      "longitude": -104.990371
+    },
+    "id": "4599",
+    "kiosk": false,
+    "openDate": "04/29/2009 00:00",
+    "operationalHours": {
+      "monToFriHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "open24Hours": null,
+      "saturdayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "sundayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "temporaryHours": null,
+      "todayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "tomorrowHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      }
+    },
+    "phone": "970-484-0328",
+    "services": [
+      {
+        "active": true,
+        "customCakes": true,
+        "displayName": "Bakery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "290",
+        "name": "BAKERY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Beer",
+        "displayOrder": 7,
+        "groupName": "Alcohol",
+        "id": "284",
+        "name": "BEER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bill Payment",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "72",
+        "name": "BILL_PAYMENT",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bluebird by American Express",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "73",
+        "name": "BLUEBIRD_BY_AMERICAN_EXPRESS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Check Cashing",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "87",
+        "name": "CHECK_CASHING",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Coinstar",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "34",
+        "name": "COINSTAR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Deli",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "289",
+        "name": "DELI",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Garden Center",
+        "displayOrder": 0,
+        "groupName": "Garden Center",
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Murphy Fuel Station",
+        "displayOrder": 0,
+        "groupName": "Auto Care",
+        "id": "851",
+        "name": "GAS_MURPHY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "00:30",
+            "openFullDay": null,
+            "startHr": "04:30"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "04:30"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "00:30",
+            "openFullDay": null,
+            "startHr": "04:30"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "04:30"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup and Delivery",
+        "displayOrder": 1,
+        "groupName": "Grocery",
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Flu Shots and Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "liquor",
+        "displayOrder": 0,
+        "groupName": "Alcohol",
+        "id": "835",
+        "name": "LIQUOR",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": true,
+            "startHr": "00:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": true,
+            "startHr": "00:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Order",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "198",
+        "name": "MONEY_ORDER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Transfer",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "199",
+        "name": "MONEY_TRANSFER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "PickUp Together",
+        "displayOrder": 0,
+        "groupName": "Walmart.com Services",
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup Today",
+        "displayOrder": 2,
+        "groupName": "Walmart.com Services",
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "35",
+        "name": "REDBOX",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "SmartStyle Hair Salon by Regis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "700",
+        "name": "SMART_STYLE_HAIR_SALON",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Subway",
+        "displayOrder": 0,
+        "groupName": "Restaurants",
+        "id": "23",
+        "name": "SUBWAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Walmart MoneyCard",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "276",
+        "name": "WALMART_MONEYCARD",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Wireless Services",
+        "displayOrder": 0,
+        "groupName": "Electronics & Home Office",
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      }
+    ],
+    "servicesMap": {
+      "BAKERY": {
+        "active": true,
+        "customCakes": true,
+        "displayName": "Bakery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "290",
+        "name": "BAKERY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      "BEER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Beer",
+        "displayOrder": 7,
+        "groupName": "Alcohol",
+        "id": "284",
+        "name": "BEER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BILL_PAYMENT": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bill Payment",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "72",
+        "name": "BILL_PAYMENT",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BLUEBIRD_BY_AMERICAN_EXPRESS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bluebird by American Express",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "73",
+        "name": "BLUEBIRD_BY_AMERICAN_EXPRESS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "CHECK_CASHING": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Check Cashing",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "87",
+        "name": "CHECK_CASHING",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "COINSTAR": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Coinstar",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "34",
+        "name": "COINSTAR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "DELI": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Deli",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "289",
+        "name": "DELI",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "GARDEN_CENTER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Garden Center",
+        "displayOrder": 0,
+        "groupName": "Garden Center",
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "GAS_MURPHY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Murphy Fuel Station",
+        "displayOrder": 0,
+        "groupName": "Auto Care",
+        "id": "851",
+        "name": "GAS_MURPHY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "00:30",
+            "openFullDay": null,
+            "startHr": "04:30"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "04:30"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "00:30",
+            "openFullDay": null,
+            "startHr": "04:30"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "04:30"
+          }
+        }
+      },
+      "GROCERY_PICKUP_DELIVERY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup and Delivery",
+        "displayOrder": 1,
+        "groupName": "Grocery",
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "IMMUNIZATIONS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Flu Shots and Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "LIQUOR": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "liquor",
+        "displayOrder": 0,
+        "groupName": "Alcohol",
+        "id": "835",
+        "name": "LIQUOR",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": true,
+            "startHr": "00:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": true,
+            "startHr": "00:00"
+          }
+        }
+      },
+      "MONEY_ORDER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Order",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "198",
+        "name": "MONEY_ORDER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "MONEY_TRANSFER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Transfer",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "199",
+        "name": "MONEY_TRANSFER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "PICKUP_TOGETHER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "PickUp Together",
+        "displayOrder": 0,
+        "groupName": "Walmart.com Services",
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "PICK_UP_TODAY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup Today",
+        "displayOrder": 2,
+        "groupName": "Walmart.com Services",
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "REDBOX": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "35",
+        "name": "REDBOX",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "SMART_STYLE_HAIR_SALON": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "SmartStyle Hair Salon by Regis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "700",
+        "name": "SMART_STYLE_HAIR_SALON",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "17:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      "SUBWAY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Subway",
+        "displayOrder": 0,
+        "groupName": "Restaurants",
+        "id": "23",
+        "name": "SUBWAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      "WALMART_MONEYCARD": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Walmart MoneyCard",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "276",
+        "name": "WALMART_MONEYCARD",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "WIRELESS_MOBILE": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Wireless Services",
+        "displayOrder": 0,
+        "groupName": "Electronics & Home Office",
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      }
+    },
+    "storeType": {
+      "displayName": "Supercenter",
+      "id": "1",
+      "name": "Walmart Supercenter"
+    },
+    "timeZone": "America/Denver",
+    "utcOffsetMinutes": -420
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"01007d84-0000-0700-0000-6031969c0000\"",
+    "_rid": "HkV9AKyFQoMFAAAAAAAAAA==",
+    "_self": "dbs/HkV9AA==/colls/HkV9AKyFQoM=/docs/HkV9AKyFQoMFAAAAAAAAAA==/",
+    "_ts": 1613862556,
+    "address": {
+      "address": "1325 Denver Ave",
+      "city": "Loveland",
+      "country": "US",
+      "postalCode": "80537",
+      "state": "CO"
+    },
+    "buId": "0",
+    "deleted": false,
+    "detailsPageURL": "http://www.walmart.com/store/953",
+    "displayName": "Loveland Supercenter",
+    "distance": 8.77,
+    "featuredServices": [
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pharmacy",
+        "displayOrder": 3,
+        "groupName": "Health and Wellness",
+        "id": "21",
+        "name": "PHARMACY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "3",
+        "name": "GROCERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "304",
+        "name": "GROCERY_PICKUP",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Photo Center",
+        "displayOrder": 5,
+        "groupName": "Photo Center",
+        "id": "8",
+        "name": "PHOTO_CENTER",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "1-Hour Photo Center",
+        "displayOrder": 0,
+        "groupName": "Photo Center",
+        "id": "7",
+        "name": "PHOTO_CENTER_ONE_HOUR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup",
+        "displayOrder": 7,
+        "groupName": "Walmart.com Services",
+        "id": "1",
+        "name": "SITE_2_STORE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Auto Care Center",
+        "displayOrder": 4,
+        "groupName": "Auto Care",
+        "id": "22",
+        "name": "TIRE_AND_LUBE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Vision Center",
+        "displayOrder": 6,
+        "groupName": "Health and Wellness",
+        "id": "4",
+        "name": "VISION_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "sundayHrs": {
+            "closed": true,
+            "endHr": null,
+            "openFullDay": null,
+            "startHr": null
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "09:00"
+          },
+          "tomorrowHrs": {
+            "closed": true,
+            "endHr": null,
+            "openFullDay": null,
+            "startHr": null
+          }
+        }
+      }
+    ],
+    "gecOrgId": "bb41518e-2543-4736-be5e-59438cb96bf8",
+    "geoPoint": {
+      "latitude": 40.404373,
+      "longitude": -105.046623
+    },
+    "id": "953",
+    "kiosk": false,
+    "openDate": "08/12/1986 00:00",
+    "operationalHours": {
+      "monToFriHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "open24Hours": null,
+      "saturdayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "sundayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "temporaryHours": null,
+      "todayHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      },
+      "tomorrowHrs": {
+        "closed": null,
+        "endHr": "23:00",
+        "openFullDay": null,
+        "startHr": "07:00"
+      }
+    },
+    "phone": "970-669-4579",
+    "services": [
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Academy Bank",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "45",
+        "name": "ACADEMY_BANK",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": true,
+        "displayName": "Bakery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "290",
+        "name": "BAKERY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Beer",
+        "displayOrder": 8,
+        "groupName": "Alcohol",
+        "id": "284",
+        "name": "BEER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bill Payment",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "72",
+        "name": "BILL_PAYMENT",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bluebird by American Express",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "73",
+        "name": "BLUEBIRD_BY_AMERICAN_EXPRESS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Burger King",
+        "displayOrder": 0,
+        "groupName": "Restaurants",
+        "id": "339",
+        "name": "BURGER_KING",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Cellairis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "344",
+        "name": "CELLAIRIS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Check Cashing",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "87",
+        "name": "CHECK_CASHING",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Coinstar",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "34",
+        "name": "COINSTAR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Deli",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "289",
+        "name": "DELI",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Gameplay",
+        "displayOrder": 0,
+        "groupName": "Entertainment",
+        "id": "393",
+        "name": "GAMEPLAY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Garden Center",
+        "displayOrder": 0,
+        "groupName": "Garden Center",
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup and Delivery",
+        "displayOrder": 1,
+        "groupName": "Grocery",
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Flu Shots and Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "liquor",
+        "displayOrder": 0,
+        "groupName": "Alcohol",
+        "id": "835",
+        "name": "LIQUOR",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "05:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "05:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Minute Key",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "298",
+        "name": "MINUTE_KEY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Order",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "198",
+        "name": "MONEY_ORDER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Transfer",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "199",
+        "name": "MONEY_TRANSFER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "PickUp Together",
+        "displayOrder": 0,
+        "groupName": "Walmart.com Services",
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup Today",
+        "displayOrder": 2,
+        "groupName": "Walmart.com Services",
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox - Kiosk A",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "836",
+        "name": "REDBOX_A",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox - Kiosk B",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "833",
+        "name": "REDBOX_B",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Regal Nails",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "484",
+        "name": "REGAL_NAILS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "SmartStyle Hair Salon by Regis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "700",
+        "name": "SMART_STYLE_HAIR_SALON",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Walmart MoneyCard",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "276",
+        "name": "WALMART_MONEYCARD",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Wireless Services",
+        "displayOrder": 0,
+        "groupName": "Electronics & Home Office",
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      }
+    ],
+    "servicesMap": {
+      "ACADEMY_BANK": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Academy Bank",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "45",
+        "name": "ACADEMY_BANK",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BAKERY": {
+        "active": true,
+        "customCakes": true,
+        "displayName": "Bakery",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "290",
+        "name": "BAKERY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "22:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      "BEER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Beer",
+        "displayOrder": 8,
+        "groupName": "Alcohol",
+        "id": "284",
+        "name": "BEER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BILL_PAYMENT": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bill Payment",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "72",
+        "name": "BILL_PAYMENT",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BLUEBIRD_BY_AMERICAN_EXPRESS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Bluebird by American Express",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "73",
+        "name": "BLUEBIRD_BY_AMERICAN_EXPRESS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "BURGER_KING": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Burger King",
+        "displayOrder": 0,
+        "groupName": "Restaurants",
+        "id": "339",
+        "name": "BURGER_KING",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          }
+        }
+      },
+      "CELLAIRIS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Cellairis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "344",
+        "name": "CELLAIRIS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "CHECK_CASHING": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Check Cashing",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "87",
+        "name": "CHECK_CASHING",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "COINSTAR": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Coinstar",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "34",
+        "name": "COINSTAR",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "DELI": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Deli",
+        "displayOrder": 0,
+        "groupName": "Grocery",
+        "id": "289",
+        "name": "DELI",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "21:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "GAMEPLAY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Gameplay",
+        "displayOrder": 0,
+        "groupName": "Entertainment",
+        "id": "393",
+        "name": "GAMEPLAY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "GARDEN_CENTER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Garden Center",
+        "displayOrder": 0,
+        "groupName": "Garden Center",
+        "id": "20",
+        "name": "GARDEN_CENTER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "GROCERY_PICKUP_DELIVERY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Grocery Pickup and Delivery",
+        "displayOrder": 1,
+        "groupName": "Grocery",
+        "id": "305",
+        "name": "GROCERY_PICKUP_DELIVERY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "IMMUNIZATIONS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Flu Shots and Immunizations",
+        "displayOrder": 0,
+        "groupName": "Health and Wellness",
+        "id": "288",
+        "name": "IMMUNIZATIONS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "LIQUOR": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "liquor",
+        "displayOrder": 0,
+        "groupName": "Alcohol",
+        "id": "835",
+        "name": "LIQUOR",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "05:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "07:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "24:00",
+            "openFullDay": null,
+            "startHr": "05:00"
+          }
+        }
+      },
+      "MINUTE_KEY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Minute Key",
+        "displayOrder": 0,
+        "groupName": "Automated/Coin-Op Service",
+        "id": "298",
+        "name": "MINUTE_KEY",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "MONEY_ORDER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Order",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "198",
+        "name": "MONEY_ORDER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "MONEY_TRANSFER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Money Transfer",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "199",
+        "name": "MONEY_TRANSFER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "PICKUP_TOGETHER": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "PickUp Together",
+        "displayOrder": 0,
+        "groupName": "Walmart.com Services",
+        "id": "749",
+        "name": "PICKUP_TOGETHER",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "PICK_UP_TODAY": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Pickup Today",
+        "displayOrder": 2,
+        "groupName": "Walmart.com Services",
+        "id": "5",
+        "name": "PICK_UP_TODAY",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          }
+        }
+      },
+      "REDBOX_A": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox - Kiosk A",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "836",
+        "name": "REDBOX_A",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "REDBOX_B": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Redbox - Kiosk B",
+        "displayOrder": 0,
+        "groupName": "Redbox",
+        "id": "833",
+        "name": "REDBOX_B",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "REGAL_NAILS": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Regal Nails",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "484",
+        "name": "REGAL_NAILS",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "SMART_STYLE_HAIR_SALON": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "SmartStyle Hair Salon by Regis",
+        "displayOrder": 0,
+        "groupName": "Personal Services",
+        "id": "700",
+        "name": "SMART_STYLE_HAIR_SALON",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "19:00",
+            "openFullDay": null,
+            "startHr": "08:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          }
+        }
+      },
+      "WALMART_MONEYCARD": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Walmart MoneyCard",
+        "displayOrder": 0,
+        "groupName": "Money Services",
+        "id": "276",
+        "name": "WALMART_MONEYCARD",
+        "operationalHours": {
+          "monToFriHrs": null,
+          "open24Hours": null,
+          "saturdayHrs": null,
+          "sundayHrs": null,
+          "todayHrs": null,
+          "tomorrowHrs": null
+        }
+      },
+      "WIRELESS_MOBILE": {
+        "active": true,
+        "customCakes": false,
+        "displayName": "Wireless Services",
+        "displayOrder": 0,
+        "groupName": "Electronics & Home Office",
+        "id": "10",
+        "name": "WIRELESS_MOBILE",
+        "operationalHours": {
+          "monToFriHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "open24Hours": null,
+          "saturdayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "sundayHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          },
+          "todayHrs": {
+            "closed": null,
+            "endHr": "20:00",
+            "openFullDay": null,
+            "startHr": "10:00"
+          },
+          "tomorrowHrs": {
+            "closed": null,
+            "endHr": "18:00",
+            "openFullDay": null,
+            "startHr": "12:00"
+          }
+        }
+      }
+    },
+    "storeType": {
+      "displayName": "Supercenter",
+      "id": "1",
+      "name": "Walmart Supercenter"
+    },
+    "timeZone": "America/Denver",
+    "utcOffsetMinutes": -420
+  }
 ]

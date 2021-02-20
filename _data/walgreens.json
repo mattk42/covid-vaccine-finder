@@ -1,2 +1,458 @@
 [
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"00009b27-0000-0700-0000-603196c40000\"",
+    "_rid": "HkV9AO6grOsCAAAAAAAAAA==",
+    "_self": "dbs/HkV9AA==/colls/HkV9AO6grOs=/docs/HkV9AO6grOsCAAAAAAAAAA==/",
+    "_ts": 1613862596,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81505"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 22.23,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "10307",
+    "lastFetched": "2021-02-20T23:09:56.404Z",
+    "latitude": "39.09135411",
+    "longitude": "-108.5726593",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|39.2554,-108.9296&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "GRAND JUNCTION",
+        "county": "MESA",
+        "intersection": "Southwest corner OF FIRST STR & PATTERSON",
+        "locationName": null,
+        "postalCode": "1450",
+        "state": "CO",
+        "street": "240 W PARK DR",
+        "zip": "81505"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "8AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "970",
+        "faxNumber": "2081258 ",
+        "number": "2081252 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "10307",
+      "storeOpenTime": "8AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "10307",
+    "storeSeoUrl": "/locator/walgreens-240+w+park+dr-grand+junction-co-81505/id=10307",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"00009e27-0000-0700-0000-603196c80000\"",
+    "_rid": "HkV9AO6grOsBAAAAAAAAAA==",
+    "_self": "dbs/HkV9AA==/colls/HkV9AO6grOs=/docs/HkV9AO6grOsBAAAAAAAAAA==/",
+    "_ts": 1613862600,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81521"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 12.32,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "11187",
+    "lastFetched": "2021-02-20T23:10:00.438Z",
+    "latitude": "39.15827289",
+    "longitude": "-108.73654432",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|39.2554,-108.9296&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "FRUITA",
+        "county": "MESA",
+        "intersection": "Southwest corner OF CHERRY STREET & ASPEN STREET",
+        "locationName": null,
+        "postalCode": "2504",
+        "state": "CO",
+        "street": "316 W ASPEN AVE",
+        "zip": "81521"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "8AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "970",
+        "faxNumber": "8589028 ",
+        "number": "8580147 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "11187",
+      "storeOpenTime": "8AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "11187",
+    "storeSeoUrl": "/locator/walgreens-316+w+aspen+ave-fruita-co-81521/id=11187",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"00009c27-0000-0700-0000-603196c50000\"",
+    "_rid": "HkV9AO6grOsEAAAAAAAAAA==",
+    "_self": "dbs/HkV9AA==/colls/HkV9AO6grOs=/docs/HkV9AO6grOsEAAAAAAAAAA==/",
+    "_ts": 1613862597,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81520"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 27.74,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "6108",
+    "lastFetched": "2021-02-20T23:09:57.752Z",
+    "latitude": "39.08770205",
+    "longitude": "-108.45916426",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|39.2554,-108.9296&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "CLIFTON",
+        "county": "MESA",
+        "intersection": "Northwest corner OF 32ND & B-70",
+        "locationName": null,
+        "postalCode": "7606",
+        "state": "CO",
+        "street": "572 32 RD",
+        "zip": "81520"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "9PM",
+          "date": "02/21/2021",
+          "open": "9AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "970",
+        "faxNumber": "5230313 ",
+        "number": "5230193 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "9PM",
+      "storeNumber": "6108",
+      "storeOpenTime": "9AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "6108",
+    "storeSeoUrl": "/locator/walgreens-572+32+rd-clifton-co-81520/id=6108",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"00009d27-0000-0700-0000-603196c70000\"",
+    "_rid": "HkV9AO6grOsDAAAAAAAAAA==",
+    "_self": "dbs/HkV9AA==/colls/HkV9AO6grOs=/docs/HkV9AO6grOsDAAAAAAAAAA==/",
+    "_ts": 1613862599,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81501"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 25.42,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "9769",
+    "lastFetched": "2021-02-20T23:09:59.070Z",
+    "latitude": "39.077899",
+    "longitude": "-108.513899",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|39.2554,-108.9296&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "GRAND JUNCTION",
+        "county": "MESA",
+        "intersection": "Northeast corner OF 29TH RD & NORTH AVE",
+        "locationName": null,
+        "postalCode": "5315",
+        "state": "CO",
+        "street": "2900 NORTH AVE",
+        "zip": "81504"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "9PM",
+          "date": "02/21/2021",
+          "open": "9AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "970",
+        "faxNumber": "2081017 ",
+        "number": "2081014 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "9PM",
+      "storeNumber": "9769",
+      "storeOpenTime": "9AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "9769",
+    "storeSeoUrl": "/locator/walgreens-2900+north+ave-grand+junction-co-81504/id=9769",
+    "sts": "1"
+  }
 ]
