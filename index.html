@@ -296,10 +296,11 @@
               <h5 class="modal-title" id="notificationModalLabel">Notifications</h5>                                                                                                                                                                       <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-              <form>
+		// TODO MAKE THIS DYNAMIC
+              <form action="https://09n9hhxeie.execute-api.us-east-2.amazonaws.com/dev/register" method="POST">
                 <div class="mb-3">
                   <label for="Email1" class="form-label">Email address</label> 
-                  <input type="email" class="form-control" id="inputEmail1">                                                                                                                                                                                 </div>
+                  <input name="email" type="email" class="form-control" id="inputEmail1">                                                                                                                                                                                 </div>
                 
                   <h5>Select stores to notify for:</h5>
                   <div class="accordion" id="cvsAccordian">
@@ -313,13 +314,13 @@
                         <div class="accordion-body">
                           
                           
-                            <input type="checkbox" class="form-check-input" id="cvs_cities/CO-AURORA">
+                            <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-AURORA" id="cvs_cities/CO-AURORA">
                             <label class="form-check-label" for="cvs_cities/CO-AURORA">AURORA, CO</label><br>
                           
-                            <input type="checkbox" class="form-check-input" id="cvs_cities/CO-GLENDALE">
+                            <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-GLENDALE" id="cvs_cities/CO-GLENDALE">
                             <label class="form-check-label" for="cvs_cities/CO-GLENDALE">GLENDALE, CO</label><br>
                           
-                            <input type="checkbox" class="form-check-input" id="cvs_cities/CO-GREELEY">
+                            <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-GREELEY" id="cvs_cities/CO-GREELEY">
                             <label class="form-check-label" for="cvs_cities/CO-GREELEY">GREELEY, CO</label><br>
                           
                         </div>
@@ -350,7 +351,7 @@
                           Walgreens
                         </button>
                       </h2>
-                      <div id="collapseWalgreens" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#walgreensAccordian">
+                      <div id="collapseWalgreens" class="accordion-collapse collapse show" aria-labelledby="headingWalgreens" data-bs-parent="#walgreensAccordian">
                         <div class="accordion-body">
                           
                           
