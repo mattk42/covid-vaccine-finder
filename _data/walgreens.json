@@ -1,2 +1,5277 @@
 [
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900854a-0000-0700-0000-6031566d0000\"",
+    "_rid": "rPxrAIcmtHwUAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwUAAAAAAAAAA==/",
+    "_ts": 1613846125,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80918"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.00",
+    "distance": 11.8,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "10057",
+    "lastFetched": "2021-02-20T18:35:26.619Z",
+    "latitude": "38.90041302",
+    "longitude": "-104.7680519",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Southwest corner OF ACADEMY & FLINTRIDGE",
+        "locationName": null,
+        "postalCode": "4230",
+        "state": "CO",
+        "street": "4713 FLINTRIDGE DR",
+        "zip": "80918"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "8AM",
+          "service": "SP"
+        },
+        {
+          "close": "7PM",
+          "date": "02/22/2021",
+          "open": "9AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "00AM",
+      "pharmacyOpenTime": "00AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2194340 ",
+        "number": "2193747 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "10057",
+      "storeOpenTime": "8AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "10057",
+    "storeSeoUrl": "/locator/walgreens-4713+flintridge+dr-colorado+springs-co-80918/id=10057",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900124a-0000-0700-0000-603156640000\"",
+    "_rid": "rPxrAIcmtHwCAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwCAAAAAAAAAA==/",
+    "_ts": 1613846116,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81505"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 35.71,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "10307",
+    "lastFetched": "2021-02-20T18:35:18.289Z",
+    "latitude": "39.09135411",
+    "longitude": "-108.5726593",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.6784,-108.9719&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "GRAND JUNCTION",
+        "county": "MESA",
+        "intersection": "Southwest corner OF FIRST STR & PATTERSON",
+        "locationName": null,
+        "postalCode": "1450",
+        "state": "CO",
+        "street": "240 W PARK DR",
+        "zip": "81505"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "8AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "970",
+        "faxNumber": "2081258 ",
+        "number": "2081252 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "10307",
+      "storeOpenTime": "8AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "10307",
+    "storeSeoUrl": "/locator/walgreens-240+w+park+dr-grand+junction-co-81505/id=10307",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"19003d4c-0000-0700-0000-603156930000\"",
+    "_rid": "rPxrAIcmtHwdAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwdAAAAAAAAAA==/",
+    "_ts": 1613846163,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80921"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 23.03,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "10456",
+    "lastFetched": "2021-02-20T18:36:04.839Z",
+    "latitude": "39.05606627",
+    "longitude": "-104.84230946",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Southeast corner OF JACKSON CREEK PKWAY & BAPTIST RD.",
+        "locationName": null,
+        "postalCode": "2454",
+        "state": "CO",
+        "street": "725 W BAPTIST RD",
+        "zip": "80921"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "8AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2190236 ",
+        "number": "2190230 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "10456",
+      "storeOpenTime": "8AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "10456",
+    "storeSeoUrl": "/locator/walgreens-725+w+baptist+rd-colorado+springs-co-80921/id=10456",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900084b-0000-0700-0000-603156780000\"",
+    "_rid": "rPxrAIcmtHwBAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwBAAAAAAAAAA==/",
+    "_ts": 1613846136,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81521"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 35.49,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "11187",
+    "lastFetched": "2021-02-20T18:35:37.779Z",
+    "latitude": "39.15827289",
+    "longitude": "-108.73654432",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.6784,-108.9719&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "FRUITA",
+        "county": "MESA",
+        "intersection": "Southwest corner OF CHERRY STREET & ASPEN STREET",
+        "locationName": null,
+        "postalCode": "2504",
+        "state": "CO",
+        "street": "316 W ASPEN AVE",
+        "zip": "81521"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "8AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "970",
+        "faxNumber": "8589028 ",
+        "number": "8580147 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "11187",
+      "storeOpenTime": "8AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "11187",
+    "storeSeoUrl": "/locator/walgreens-316+w+aspen+ave-fruita-co-81521/id=11187",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900484d-0000-0700-0000-603156a30000\"",
+    "_rid": "rPxrAIcmtHwpAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwpAAAAAAAAAA==/",
+    "_ts": 1613846179,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80435"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 41.88,
+    "drive": "1",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "11326",
+    "lastFetched": "2021-02-20T18:36:20.532Z",
+    "latitude": "39.63013328",
+    "longitude": "-106.05884822",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|39.1011,-106.4416&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "DILLON",
+        "county": "SUMMIT",
+        "intersection": "Northwest corner OF DILLON RIDGE ROAD & HIGHWAY 6",
+        "locationName": null,
+        "postalCode": "8801",
+        "state": "CO",
+        "street": "269 DILLON RIDGE RD",
+        "zip": "80435"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "9PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "7PM",
+          "date": "02/22/2021",
+          "open": "9AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "00AM",
+      "pharmacyOpenTime": "00AM",
+      "phone": {
+        "areaCode": "970",
+        "faxNumber": "4687879 ",
+        "number": "4680287 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "9PM",
+      "storeNumber": "11326",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "11326",
+    "storeSeoUrl": "/locator/walgreens-269+dillon+ridge+rd-dillon-co-80435/id=11326",
+    "sts": "0"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900e44b-0000-0700-0000-6031568c0000\"",
+    "_rid": "rPxrAIcmtHwbAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwbAAAAAAAAAA==/",
+    "_ts": 1613846156,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80920"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 16.42,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "11477",
+    "lastFetched": "2021-02-20T18:35:57.814Z",
+    "latitude": "38.967552",
+    "longitude": "-104.745886",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Northeast corner OF ROYAL PINE & BRIARGATE PARKWAY",
+        "locationName": null,
+        "postalCode": "2829",
+        "state": "CO",
+        "street": "4470 ROYAL PINE DR",
+        "zip": "80920"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "4454166 ",
+        "number": "4454160 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "11477",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "11477",
+    "storeSeoUrl": "/locator/walgreens-4470+royal+pine+dr-colorado+springs-co-80920/id=11477",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900684a-0000-0700-0000-6031566a0000\"",
+    "_rid": "rPxrAIcmtHwSAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwSAAAAAAAAAA==/",
+    "_ts": 1613846122,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80904"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 10.75,
+    "feeEligible": "N",
+    "id": "11863",
+    "lastFetched": "2021-02-20T18:35:23.876Z",
+    "latitude": "38.85394348",
+    "longitude": "-104.87433199",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "W COLORADO & N 31ST",
+        "locationName": null,
+        "postalCode": "2040",
+        "state": "CO",
+        "street": "3143 W COLORADO AVE",
+        "zip": "80904"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "8AM",
+          "service": "SP"
+        },
+        {
+          "close": "7PM",
+          "date": "02/22/2021",
+          "open": "9AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "6326678 ",
+        "number": "6327112 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "11863",
+      "storeOpenTime": "8AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "11863",
+    "storeSeoUrl": "/locator/walgreens-3143+w+colorado+ave-colorado+springs-co-80904/id=11863",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900f94c-0000-0700-0000-603156a00000\"",
+    "_rid": "rPxrAIcmtHwVAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwVAAAAAAAAAA==/",
+    "_ts": 1613846176,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80907"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 12.45,
+    "feeEligible": "N",
+    "id": "11864",
+    "lastFetched": "2021-02-20T18:36:17.666Z",
+    "latitude": "38.89382262",
+    "longitude": "-104.84996622",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "CENTENNIAL & GARDEN OF THE GODS",
+        "locationName": null,
+        "postalCode": "3769",
+        "state": "CO",
+        "street": "4315 CENTENNIAL BLVD",
+        "zip": "80907"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "7PM",
+          "date": "02/22/2021",
+          "open": "9AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2640197 ",
+        "number": "2641400 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "11864",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "11864",
+    "storeSeoUrl": "/locator/walgreens-4315+centennial+blvd-colorado+springs-co-80907/id=11864",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900154b-0000-0700-0000-603156790000\"",
+    "_rid": "rPxrAIcmtHwfAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwfAAAAAAAAAA==/",
+    "_ts": 1613846137,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80132"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 25.79,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "12769",
+    "lastFetched": "2021-02-20T18:35:39.160Z",
+    "latitude": "39.09310401",
+    "longitude": "-104.86462201",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "MONUMENT",
+        "county": "EL PASO",
+        "intersection": "Northwest corner OF HIGHWAY 105 & 2ND",
+        "locationName": null,
+        "postalCode": "3289",
+        "state": "CO",
+        "street": "265 W HIGHWAY 105",
+        "zip": "80132"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2191294 ",
+        "number": "2191288 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "12769",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "12769",
+    "storeSeoUrl": "/locator/walgreens-265+w+highway+105-monument-co-80132/id=12769",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900904d-0000-0700-0000-603156a50000\"",
+    "_rid": "rPxrAIcmtHwoAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwoAAAAAAAAAA==/",
+    "_ts": 1613846181,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81620"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 37.25,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "15101",
+    "lastFetched": "2021-02-20T18:36:23.143Z",
+    "latitude": "39.63653114",
+    "longitude": "-106.52248104",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|39.1011,-106.4416&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "AVON",
+        "county": "EAGLE",
+        "intersection": "Northwest corner OF AVON RD & SUN RD",
+        "locationName": null,
+        "postalCode": "8401",
+        "state": "CO",
+        "street": "15 SUN ROAD X8438",
+        "zip": "81620"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "7PM",
+          "date": "02/22/2021",
+          "open": "9AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "970",
+        "faxNumber": "9491075 ",
+        "number": "9498097 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "15101",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "15101",
+    "storeSeoUrl": "/locator/walgreens-15+sun+road+x8438-avon-co-81620/id=15101",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900ae4a-0000-0700-0000-603156710000\"",
+    "_rid": "rPxrAIcmtHwKAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwKAAAAAAAAAA==/",
+    "_ts": 1613846129,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80909"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "1",
+    "curbSideClose": "1",
+    "deliveryFee": "0.0",
+    "distance": 7.48,
+    "feeEligible": "N",
+    "id": "16531",
+    "lastFetched": "2021-02-20T18:35:30.732Z",
+    "latitude": "38.83354917",
+    "longitude": "-104.79419912",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "false",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "0",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "",
+        "locationName": "Community, A Walgreens Pharmacy (Colorado Springs)",
+        "postalCode": "5701",
+        "state": "CO",
+        "street": "15 N UNION BLVD",
+        "zip": "80909"
+      },
+      "brand": "Community, a Walgreens Pharmacy",
+      "emergencyCode": "0",
+      "locationName": "Community, A Walgreens Pharmacy (Colorado Springs)",
+      "name": "Community, A Walgreens Pharmacy (Colorado Springs)",
+      "nextAvailableDay": [
+        {
+          "close": "5:30PM",
+          "date": "02/22/2021",
+          "open": "8:30AM",
+          "service": "SP"
+        },
+        {
+          "close": "5:30PM",
+          "date": "02/22/2021",
+          "open": "8:30AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "00AM",
+      "pharmacyOpenTime": "00AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "4524358 ",
+        "number": "4524356 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "name": "Specialty Pharmacy Services"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        }
+      ],
+      "storeBrand": "Community, a Walgreens Pharmacy",
+      "storeCloseTime": "00AM",
+      "storeNumber": "16531",
+      "storeOpenTime": "00AM",
+      "storeType": "24",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "16531",
+    "storeSeoUrl": "/locator/community,+a+walgreens+pharmacy-15+n+union+blvd-colorado+springs-co-80909/id=16531",
+    "sts": "0"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900dc4b-0000-0700-0000-6031568b0000\"",
+    "_rid": "rPxrAIcmtHwtAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwtAAAAAAAAAA==/",
+    "_ts": 1613846155,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80124"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "1",
+    "curbSideClose": "1",
+    "deliveryFee": "0.0",
+    "distance": 47.31,
+    "feeEligible": "N",
+    "id": "16569",
+    "lastFetched": "2021-02-20T18:35:56.287Z",
+    "latitude": "39.52959565",
+    "longitude": "-104.87093819",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.8558,-104.7134&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "false",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "0",
+    "store": {
+      "address": {
+        "city": "LONE TREE",
+        "county": "DOUGLAS",
+        "intersection": "",
+        "locationName": "Walgreens Pharmacy at Sky Ridge Medical Center",
+        "postalCode": "5524",
+        "state": "CO",
+        "street": "10103 RIDGEGATE PKWY STE 117",
+        "zip": "80124"
+      },
+      "emergencyCode": "0",
+      "locationName": "Walgreens Pharmacy at Sky Ridge Medical Center",
+      "name": "Walgreens Pharmacy at Sky Ridge Medical Center",
+      "nextAvailableDay": [
+        {
+          "close": "5:30PM",
+          "date": "02/22/2021",
+          "open": "9AM",
+          "service": "SP"
+        },
+        {
+          "close": "5:30PM",
+          "date": "02/22/2021",
+          "open": "9AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "00AM",
+      "pharmacyOpenTime": "00AM",
+      "phone": {
+        "areaCode": "303",
+        "faxNumber": "7292720 ",
+        "number": "7292719 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "name": "Specialty Pharmacy Services"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        }
+      ],
+      "storeCloseTime": "00AM",
+      "storeNumber": "16569",
+      "storeOpenTime": "00AM",
+      "storeType": "06",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "16569",
+    "storeSeoUrl": "/locator/walgreens-10103+ridgegate+pkwy+ste+117-lone+tree-co-80124/id=16569",
+    "sts": "0"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900dd4a-0000-0700-0000-603156750000\"",
+    "_rid": "rPxrAIcmtHwuAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwuAAAAAAAAAA==/",
+    "_ts": 1613846133,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80126"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 48.04,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "2641",
+    "lastFetched": "2021-02-20T18:35:34.949Z",
+    "latitude": "39.52829268",
+    "longitude": "-104.94114932",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.8558,-104.7134&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "HIGHLANDS RANCH",
+        "county": "DOUGLAS",
+        "intersection": "Northwest corner OF WILDCAT RESERVE & FAIRVIEW",
+        "locationName": null,
+        "postalCode": "6800",
+        "state": "CO",
+        "street": "4175 E WILDCAT RESERVE PKWY",
+        "zip": "80126"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "720",
+        "faxNumber": "2145622 ",
+        "number": "2144910 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "2641",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "2641",
+    "storeSeoUrl": "/locator/walgreens-4175+e+wildcat+reserve+pkwy-highlands+ranch-co-80126/id=2641",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900954b-0000-0700-0000-603156850000\"",
+    "_rid": "rPxrAIcmtHwXAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwXAAAAAAAAAA==/",
+    "_ts": 1613846149,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80918"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicDisplayText": "Healthcare Clinic",
+    "clinicId": "10452",
+    "clinicTypeInd": "HC",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 13.56,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "3583",
+    "lastFetched": "2021-02-20T18:35:50.413Z",
+    "latitude": "38.92542624",
+    "longitude": "-104.77603752",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "partnerCode": "HCC",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "DUBLIN & UNION",
+        "locationName": null,
+        "postalCode": "1360",
+        "state": "CO",
+        "street": "2785 DUBLIN BLVD",
+        "zip": "80918"
+      },
+      "brand": "Walgreens",
+      "clinicTrademarkCode": "HCC",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "12AM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "5983918 ",
+        "number": "5938940 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "12AM",
+      "storeNumber": "3583",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "3583",
+    "storeSeoUrl": "/locator/walgreens-2785+dublin+blvd-colorado+springs-co-80918/id=3583",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900824b-0000-0700-0000-603156830000\"",
+    "_rid": "rPxrAIcmtHwRAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwRAAAAAAAAAA==/",
+    "_ts": 1613846147,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80907"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicDisplayText": "Healthcare Clinic",
+    "clinicId": "10453",
+    "clinicTypeInd": "HC",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 10.55,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "3584",
+    "lastFetched": "2021-02-20T18:35:49.033Z",
+    "latitude": "38.87393059",
+    "longitude": "-104.81892078",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "partnerCode": "HCC",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "NEVADA & FILLMORE",
+        "locationName": null,
+        "postalCode": "6224",
+        "state": "CO",
+        "street": "2921 N NEVADA AVE",
+        "zip": "80907"
+      },
+      "brand": "Walgreens",
+      "clinicTrademarkCode": "HCC",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "12AM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "4718437 ",
+        "number": "4713440 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "12AM",
+      "storeNumber": "3584",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "3584",
+    "storeSeoUrl": "/locator/walgreens-2921+n+nevada+ave-colorado+springs-co-80907/id=3584",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"19001d4d-0000-0700-0000-603156a10000\"",
+    "_rid": "rPxrAIcmtHwZAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwZAAAAAAAAAA==/",
+    "_ts": 1613846177,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80919"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicDisplayText": "Healthcare Clinic",
+    "clinicId": "10454",
+    "clinicTypeInd": "HC",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 14.98,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "3585",
+    "lastFetched": "2021-02-20T18:36:19.149Z",
+    "latitude": "38.92875152",
+    "longitude": "-104.86456814",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "partnerCode": "HCC",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "CENTENNIAL & VINDICATOR",
+        "locationName": null,
+        "postalCode": "5114",
+        "state": "CO",
+        "street": "6820 CENTENNIAL BLVD",
+        "zip": "80919"
+      },
+      "brand": "Walgreens",
+      "clinicTrademarkCode": "HCC",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2646772 ",
+        "number": "2641665 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "3585",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "3585",
+    "storeSeoUrl": "/locator/walgreens-6820+centennial+blvd-colorado+springs-co-80919/id=3585",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"19000d4c-0000-0700-0000-6031568f0000\"",
+    "_rid": "rPxrAIcmtHwQAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwQAAAAAAAAAA==/",
+    "_ts": 1613846159,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80917"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.00",
+    "distance": 10.49,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "3586",
+    "lastFetched": "2021-02-20T18:36:00.730Z",
+    "latitude": "38.88176426",
+    "longitude": "-104.7575936",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "CAREFREE & ACADEMY",
+        "locationName": null,
+        "postalCode": "5086",
+        "state": "CO",
+        "street": "3480 N ACADEMY BLVD",
+        "zip": "80917"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "12AM",
+          "date": "02/21/2021",
+          "open": "6AM",
+          "service": "SP"
+        },
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "8AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "10PM",
+      "pharmacyOpenTime": "8AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "3809830 ",
+        "number": "3809438 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "12AM",
+      "storeNumber": "3586",
+      "storeOpenTime": "6AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "3586",
+    "storeSeoUrl": "/locator/walgreens-3480+n+academy+blvd-colorado+springs-co-80917/id=3586",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900bb4b-0000-0700-0000-603156880000\"",
+    "_rid": "rPxrAIcmtHwPAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwPAAAAAAAAAA==/",
+    "_ts": 1613846152,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80915"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicDisplayText": "Healthcare Clinic",
+    "clinicId": "10317",
+    "clinicTypeInd": "HC",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.00",
+    "distance": 9.94,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "3914",
+    "lastFetched": "2021-02-20T18:35:53.587Z",
+    "latitude": "38.87153125",
+    "longitude": "-104.72084294",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "partnerCode": "HCC",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "POWERS & CONSTITUTION",
+        "locationName": null,
+        "postalCode": "1220",
+        "state": "CO",
+        "street": "5755 CONSTITUTION AVE",
+        "zip": "80915"
+      },
+      "brand": "Walgreens",
+      "clinicTrademarkCode": "HCC",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "5915829 ",
+        "number": "5919929 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "3914",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "3914",
+    "storeSeoUrl": "/locator/walgreens-5755+constitution+ave-colorado+springs-co-80915/id=3914",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900564c-0000-0700-0000-603156960000\"",
+    "_rid": "rPxrAIcmtHwNAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwNAAAAAAAAAA==/",
+    "_ts": 1613846166,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80909"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicDisplayText": "Healthcare Clinic",
+    "clinicId": "10319",
+    "clinicTypeInd": "HC",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 8.15,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "4043",
+    "lastFetched": "2021-02-20T18:36:07.596Z",
+    "latitude": "38.84660326",
+    "longitude": "-104.77646374",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "partnerCode": "HCC",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "CIRCLE & GALLEY",
+        "locationName": null,
+        "postalCode": "5038",
+        "state": "CO",
+        "street": "920 N CIRCLE DR",
+        "zip": "80909"
+      },
+      "brand": "Walgreens",
+      "clinicTrademarkCode": "HCC",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "11PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "8AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "10PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "8AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "4739342 ",
+        "number": "4739090 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "11PM",
+      "storeNumber": "4043",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "4043",
+    "storeSeoUrl": "/locator/walgreens-920+n+circle+dr-colorado+springs-co-80909/id=4043",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900f74b-0000-0700-0000-6031568e0000\"",
+    "_rid": "rPxrAIcmtHwHAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwHAAAAAAAAAA==/",
+    "_ts": 1613846158,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80916"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 5.15,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "4596",
+    "lastFetched": "2021-02-20T18:35:59.158Z",
+    "latitude": "38.80443084",
+    "longitude": "-104.75673286",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Southeast corner ACADEMY & CHELTON",
+        "locationName": null,
+        "postalCode": "5304",
+        "state": "CO",
+        "street": "1920 S CHELTON RD",
+        "zip": "80916"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "5707181 ",
+        "number": "5701618 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "4596",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "4596",
+    "storeSeoUrl": "/locator/walgreens-1920+s+chelton+rd-colorado+springs-co-80916/id=4596",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900914a-0000-0700-0000-6031566e0000\"",
+    "_rid": "rPxrAIcmtHwFAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwFAAAAAAAAAA==/",
+    "_ts": 1613846126,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80911"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.00",
+    "distance": 1.66,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "4709",
+    "lastFetched": "2021-02-20T18:35:27.956Z",
+    "latitude": "38.7525172",
+    "longitude": "-104.74290905",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Southwest corner MAIN & SECURITY",
+        "locationName": null,
+        "postalCode": "1712",
+        "state": "CO",
+        "street": "280 MAIN ST",
+        "zip": "80911"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "3925149 ",
+        "number": "3909123 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "4709",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "4709",
+    "storeSeoUrl": "/locator/walgreens-280+main+st-colorado+springs-co-80911/id=4709",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900d04b-0000-0700-0000-603156890000\"",
+    "_rid": "rPxrAIcmtHwlAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwlAAAAAAAAAA==/",
+    "_ts": 1613846153,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81005"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 34.13,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "4721",
+    "lastFetched": "2021-02-20T18:35:54.912Z",
+    "latitude": "38.24344541",
+    "longitude": "-104.64470524",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "PUEBLO",
+        "county": "PUEBLO",
+        "intersection": "Southwest corner PRAIRIE & NORTHERN",
+        "locationName": null,
+        "postalCode": "2315",
+        "state": "CO",
+        "street": "2900 W NORTHERN AVE",
+        "zip": "81005"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "12AM",
+          "date": "02/21/2021",
+          "open": "12AM",
+          "service": "SP"
+        },
+        {
+          "close": "11PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "11PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "7AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "5610298 ",
+        "number": "5619728 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "t4hr",
+          "name": "Store Open 24 hours"
+        },
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "12AM",
+      "storeNumber": "4721",
+      "storeOpenTime": "12AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "4721",
+    "storeSeoUrl": "/locator/walgreens-2900+w+northern+ave-pueblo-co-81005/id=4721",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900254a-0000-0700-0000-603156660000\"",
+    "_rid": "rPxrAIcmtHwsAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwsAAAAAAAAAA==/",
+    "_ts": 1613846118,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80134"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicDisplayText": "Healthcare Clinic",
+    "clinicId": "10310",
+    "clinicTypeInd": "HC",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 47.11,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "5261",
+    "lastFetched": "2021-02-20T18:35:19.689Z",
+    "latitude": "39.5362954",
+    "longitude": "-104.7685434",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.8558,-104.7134&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "partnerCode": "HCC",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "PARKER",
+        "county": "DOUGLAS",
+        "intersection": "Southwest corner OF PARKER & LINCOLN",
+        "locationName": null,
+        "postalCode": "9381",
+        "state": "CO",
+        "street": "19028 LINCOLN AVE",
+        "zip": "80134"
+      },
+      "brand": "Walgreens",
+      "clinicTrademarkCode": "HCC",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "12AM",
+          "date": "02/21/2021",
+          "open": "12AM",
+          "service": "SP"
+        },
+        {
+          "close": "12AM",
+          "date": "02/21/2021",
+          "open": "12AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "12AM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2am",
+          "message": "Pharmacy closed 1:30 - 2am for meal break",
+          "startTime": "1:30am",
+          "status": "closed"
+        }
+      ],
+      "pharmacyOpenTime": "12AM",
+      "phone": {
+        "areaCode": "303",
+        "faxNumber": "8054647 ",
+        "number": "8052135 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "t4hr",
+          "name": "Store Open 24 hours"
+        },
+        {
+          "code": "t4hr_rx",
+          "name": "Pharmacy Open 24 hours"
+        },
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "12AM",
+      "storeNumber": "5261",
+      "storeOpenTime": "12AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "5261",
+    "storeSeoUrl": "/locator/walgreens-19028+lincoln+ave-parker-co-80134/id=5261",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900f24a-0000-0700-0000-603156770000\"",
+    "_rid": "rPxrAIcmtHwaAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwaAAAAAAAAAA==/",
+    "_ts": 1613846135,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80920"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicDisplayText": "Healthcare Clinic",
+    "clinicId": "10318",
+    "clinicTypeInd": "HC",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 15.74,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "5262",
+    "lastFetched": "2021-02-20T18:35:36.282Z",
+    "latitude": "38.95747442",
+    "longitude": "-104.76883461",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "partnerCode": "HCC",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Northeast corner OF RESEARCH & LEXINGTON",
+        "locationName": null,
+        "postalCode": "4309",
+        "state": "CO",
+        "street": "8705 LEXINGTON DR",
+        "zip": "80920"
+      },
+      "brand": "Walgreens",
+      "clinicTrademarkCode": "HCC",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2821467 ",
+        "number": "2827797 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "5262",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "5262",
+    "storeSeoUrl": "/locator/walgreens-8705+lexington+dr-colorado+springs-co-80920/id=5262",
+    "sts": "1",
+    "weightLossDisplayId": "*",
+    "weightLossMngmtInd": true
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"19006d4c-0000-0700-0000-603156980000\"",
+    "_rid": "rPxrAIcmtHwvAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwvAAAAAAAAAA==/",
+    "_ts": 1613846168,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80130"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicDisplayText": "Healthcare Clinic",
+    "clinicId": "10316",
+    "clinicTypeInd": "HC",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 48.59,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "5538",
+    "lastFetched": "2021-02-20T18:36:08.959Z",
+    "latitude": "39.54196555",
+    "longitude": "-104.91229998",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.8558,-104.7134&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "partnerCode": "HCC",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "HIGHLANDS RANCH",
+        "county": "DOUGLAS",
+        "intersection": "Northeast corner OF QUEBEC & LINCOLN",
+        "locationName": null,
+        "postalCode": "5342",
+        "state": "CO",
+        "street": "6650 TIMBERLINE RD",
+        "zip": "80130"
+      },
+      "brand": "Walgreens",
+      "clinicTrademarkCode": "HCC",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "303",
+        "faxNumber": "7915685 ",
+        "number": "7911523 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "5538",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "5538",
+    "storeSeoUrl": "/locator/walgreens-6650+timberline+rd-highlands+ranch-co-80130/id=5538",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"19003d4b-0000-0700-0000-6031567c0000\"",
+    "_rid": "rPxrAIcmtHwMAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwMAAAAAAAAAA==/",
+    "_ts": 1613846140,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80909"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 7.76,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "5547",
+    "lastFetched": "2021-02-20T18:35:42.020Z",
+    "latitude": "38.83752128",
+    "longitude": "-104.79542284",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Northeast corner OF UNION & PLATTE",
+        "locationName": null,
+        "postalCode": "5704",
+        "state": "CO",
+        "street": "350 N UNION BLVD",
+        "zip": "80909"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "4422396 ",
+        "number": "4422356 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "5547",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "5547",
+    "storeSeoUrl": "/locator/walgreens-350+n+union+blvd-colorado+springs-co-80909/id=5547",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900674d-0000-0700-0000-603156a40000\"",
+    "_rid": "rPxrAIcmtHwWAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwWAAAAAAAAAA==/",
+    "_ts": 1613846180,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80918"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 13.21,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "5621",
+    "lastFetched": "2021-02-20T18:36:21.867Z",
+    "latitude": "38.92084969",
+    "longitude": "-104.73917094",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Northwest corner OF RANGEWOOD & AUSTIN BLUFF",
+        "locationName": null,
+        "postalCode": "7301",
+        "state": "CO",
+        "street": "6011 RANGEWOOD DR",
+        "zip": "80918"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "5937131 ",
+        "number": "5937119 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "5621",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "5621",
+    "storeSeoUrl": "/locator/walgreens-6011+rangewood+dr-colorado+springs-co-80918/id=5621",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900594b-0000-0700-0000-6031567f0000\"",
+    "_rid": "rPxrAIcmtHwhAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwhAAAAAAAAAA==/",
+    "_ts": 1613846143,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81008"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 29.76,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "5642",
+    "lastFetched": "2021-02-20T18:35:44.770Z",
+    "latitude": "38.31011182",
+    "longitude": "-104.63081706",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "PUEBLO",
+        "county": "PUEBLO",
+        "intersection": "Northwest corner OF HWY 50 & FORTINO",
+        "locationName": null,
+        "postalCode": "1646",
+        "state": "CO",
+        "street": "1811 W US HIGHWAY 50",
+        "zip": "81008"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2968011 ",
+        "number": "2968007 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "5642",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "5642",
+    "storeSeoUrl": "/locator/walgreens-1811+w+us+highway+50-pueblo-co-81008/id=5642",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900c34c-0000-0700-0000-6031569d0000\"",
+    "_rid": "rPxrAIcmtHwJAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwJAAAAAAAAAA==/",
+    "_ts": 1613846173,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80910"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 6.78,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "5794",
+    "lastFetched": "2021-02-20T18:36:14.912Z",
+    "latitude": "38.82597308",
+    "longitude": "-104.77956854",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Northeast corner OF CIRCLE & AIRPORT",
+        "locationName": null,
+        "postalCode": "3026",
+        "state": "CO",
+        "street": "303 S CIRCLE DR",
+        "zip": "80910"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "8AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "6361939 ",
+        "number": "4448569 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "5794",
+      "storeOpenTime": "8AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "5794",
+    "storeSeoUrl": "/locator/walgreens-303+s+circle+dr-colorado+springs-co-80910/id=5794",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900a34b-0000-0700-0000-603156860000\"",
+    "_rid": "rPxrAIcmtHwEAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwEAAAAAAAAAA==/",
+    "_ts": 1613846150,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81520"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 39.5,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "6108",
+    "lastFetched": "2021-02-20T18:35:52.120Z",
+    "latitude": "39.08770205",
+    "longitude": "-108.45916426",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.6784,-108.9719&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "CLIFTON",
+        "county": "MESA",
+        "intersection": "Northwest corner OF 32ND & B-70",
+        "locationName": null,
+        "postalCode": "7606",
+        "state": "CO",
+        "street": "572 32 RD",
+        "zip": "81520"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "9PM",
+          "date": "02/21/2021",
+          "open": "9AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "970",
+        "faxNumber": "5230313 ",
+        "number": "5230193 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "9PM",
+      "storeNumber": "6108",
+      "storeOpenTime": "9AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "6108",
+    "storeSeoUrl": "/locator/walgreens-572+32+rd-clifton-co-81520/id=6108",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900434b-0000-0700-0000-6031567e0000\"",
+    "_rid": "rPxrAIcmtHwiAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwiAAAAAAAAAA==/",
+    "_ts": 1613846142,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81001"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 31.64,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "6283",
+    "lastFetched": "2021-02-20T18:35:43.434Z",
+    "latitude": "38.28881352",
+    "longitude": "-104.59697743",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "PUEBLO",
+        "county": "PUEBLO",
+        "intersection": "Northwest corner OF BONFORTE & HUNTER",
+        "locationName": null,
+        "postalCode": "1856",
+        "state": "CO",
+        "street": "1013 BONFORTE BLVD",
+        "zip": "81001"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "5444929 ",
+        "number": "5449998 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "6283",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "6283",
+    "storeSeoUrl": "/locator/walgreens-1013+bonforte+blvd-pueblo-co-81001/id=6283",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"19007a4a-0000-0700-0000-6031566b0000\"",
+    "_rid": "rPxrAIcmtHwnAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwnAAAAAAAAAA==/",
+    "_ts": 1613846123,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80108"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 47.6,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "6514",
+    "lastFetched": "2021-02-20T18:35:25.267Z",
+    "latitude": "39.4135613",
+    "longitude": "-104.86416893",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "multiPartner": {
+      "labMultiPartners": [
+        {
+          "actionNavigation": "https://www.labcorp.com/walgreens",
+          "partnerCode": "LCW",
+          "partnerName": "LabCorp at Walgreens"
+        }
+      ]
+    },
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "CASTLE ROCK",
+        "county": "DOUGLAS",
+        "intersection": "Northeast corner OF FOUNDERS PARKWAY & ALLEN",
+        "locationName": null,
+        "postalCode": "7840",
+        "state": "CO",
+        "street": "14 E ALLEN ST",
+        "zip": "80108"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "labCloseTime": "00AM",
+      "labOpenTime": "00AM",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        },
+        {
+          "close": "3:30PM",
+          "date": "02/22/2021",
+          "open": "7AM",
+          "service": "LSH"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "303",
+        "faxNumber": "6633438 ",
+        "number": "6636858 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        },
+        {
+          "code": "lbt",
+          "name": "Lab Services"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "6514",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "6514",
+    "storeSeoUrl": "/locator/walgreens-14+e+allen+st-castle+rock-co-80108/id=6514",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"19004a4a-0000-0700-0000-603156690000\"",
+    "_rid": "rPxrAIcmtHwLAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwLAAAAAAAAAA==/",
+    "_ts": 1613846121,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80916"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 7.54,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "6731",
+    "lastFetched": "2021-02-20T18:35:22.391Z",
+    "latitude": "38.83899474",
+    "longitude": "-104.74742471",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Southeast corner OF MURRAY & PLATTE",
+        "locationName": null,
+        "postalCode": "4104",
+        "state": "CO",
+        "street": "4305 E PLATTE AVE",
+        "zip": "80915"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "9PM",
+          "date": "02/21/2021",
+          "open": "9AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "6229219 ",
+        "number": "6221726 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "9PM",
+      "storeNumber": "6731",
+      "storeOpenTime": "9AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "6731",
+    "storeSeoUrl": "/locator/walgreens-4305+e+platte+ave-colorado+springs-co-80915/id=6731",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900844c-0000-0700-0000-603156990000\"",
+    "_rid": "rPxrAIcmtHwmAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwmAAAAAAAAAA==/",
+    "_ts": 1613846169,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80104"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 44.36,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "6987",
+    "lastFetched": "2021-02-20T18:36:10.806Z",
+    "latitude": "39.36641471",
+    "longitude": "-104.86289515",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "CASTLE ROCK",
+        "county": "DOUGLAS",
+        "intersection": "Northwest corner OF WILCOX ST & PLUM CREEK PARKWAY",
+        "locationName": null,
+        "postalCode": "1914",
+        "state": "CO",
+        "street": "355 S WILCOX ST",
+        "zip": "80104"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "303",
+        "faxNumber": "8143989 ",
+        "number": "6635998 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "6987",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "6987",
+    "storeSeoUrl": "/locator/walgreens-355+s+wilcox+st-castle+rock-co-80104/id=6987",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900a34c-0000-0700-0000-6031569c0000\"",
+    "_rid": "rPxrAIcmtHwGAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwGAAAAAAAAAA==/",
+    "_ts": 1613846172,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80817"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 2.9,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "7022",
+    "lastFetched": "2021-02-20T18:36:13.569Z",
+    "latitude": "38.71770613",
+    "longitude": "-104.70223216",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "FOUNTAIN",
+        "county": "EL PASO",
+        "intersection": "Southwest corner OF FOUNTAIN MESA RD & MESA RIDGE PARKWAY",
+        "locationName": null,
+        "postalCode": "1532",
+        "state": "CO",
+        "street": "7910 FOUNTAIN MESA RD",
+        "zip": "80817"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "12AM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "3820437 ",
+        "number": "3820427 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "12AM",
+      "storeNumber": "7022",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "7022",
+    "storeSeoUrl": "/locator/walgreens-7910+fountain+mesa+rd-fountain-co-80817/id=7022",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900674b-0000-0700-0000-603156800000\"",
+    "_rid": "rPxrAIcmtHwqAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwqAAAAAAAAAA==/",
+    "_ts": 1613846144,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80134"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 43.05,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "7138",
+    "lastFetched": "2021-02-20T18:35:46.160Z",
+    "latitude": "39.47787091",
+    "longitude": "-104.75886597",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.8558,-104.7134&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "PARKER",
+        "county": "DOUGLAS",
+        "intersection": "Southwest corner OF PARKER RD & STROH RD",
+        "locationName": null,
+        "postalCode": "3488",
+        "state": "CO",
+        "street": "13143 S PARKER RD",
+        "zip": "80134"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "720",
+        "faxNumber": "2141077 ",
+        "number": "2141073 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "7138",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "7138",
+    "storeSeoUrl": "/locator/walgreens-13143+s+parker+rd-parker-co-80134/id=7138",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900934c-0000-0700-0000-6031569a0000\"",
+    "_rid": "rPxrAIcmtHwTAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwTAAAAAAAAAA==/",
+    "_ts": 1613846170,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80922"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 11.51,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "7142",
+    "lastFetched": "2021-02-20T18:36:12.165Z",
+    "latitude": "38.89378109",
+    "longitude": "-104.71494901",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Southwest corner OF TUTT BLVD & BARNES RD",
+        "locationName": null,
+        "postalCode": "2603",
+        "state": "CO",
+        "street": "6075 BARNES RD",
+        "zip": "80922"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2192797 ",
+        "number": "2192793 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "7142",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "7142",
+    "storeSeoUrl": "/locator/walgreens-6075+barnes+rd-colorado+springs-co-80922/id=7142",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900244b-0000-0700-0000-6031567b0000\"",
+    "_rid": "rPxrAIcmtHwOAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwOAAAAAAAAAA==/",
+    "_ts": 1613846139,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80904"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 9.69,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "7777",
+    "lastFetched": "2021-02-20T18:35:40.571Z",
+    "latitude": "38.84871659",
+    "longitude": "-104.84949609",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Northeast corner OF N 19TH ST & UINTAH ST",
+        "locationName": null,
+        "postalCode": "3459",
+        "state": "CO",
+        "street": "625 N 19TH ST",
+        "zip": "80904"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "4730445 ",
+        "number": "4738834 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "7777",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "7777",
+    "storeSeoUrl": "/locator/walgreens-625+n+19th+st-colorado+springs-co-80904/id=7777",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900ba4a-0000-0700-0000-603156720000\"",
+    "_rid": "rPxrAIcmtHwrAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwrAAAAAAAAAA==/",
+    "_ts": 1613846130,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80108"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 43.41,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "7837",
+    "lastFetched": "2021-02-20T18:35:32.127Z",
+    "latitude": "39.47017898",
+    "longitude": "-104.88272615",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.8558,-104.7134&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "CASTLE ROCK",
+        "county": "DOUGLAS",
+        "intersection": "",
+        "locationName": null,
+        "postalCode": "9509",
+        "state": "CO",
+        "street": "7370 LAGAE RD",
+        "zip": "80108"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "7PM",
+          "date": "02/22/2021",
+          "open": "9AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "720",
+        "faxNumber": "2142289 ",
+        "number": "2142283 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "7837",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "7837",
+    "storeSeoUrl": "/locator/walgreens-7370+lagae+rd-castle+rock-co-80108/id=7837",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900324c-0000-0700-0000-603156920000\"",
+    "_rid": "rPxrAIcmtHwcAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwcAAAAAAAAAA==/",
+    "_ts": 1613846162,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80831"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 16.57,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "9199",
+    "lastFetched": "2021-02-20T18:36:03.429Z",
+    "latitude": "38.94008461",
+    "longitude": "-104.60523197",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "FALCON",
+        "county": "EL PASO",
+        "intersection": "Southwest corner OF MC LAUGHLIN & WOODMEN",
+        "locationName": null,
+        "postalCode": "4713",
+        "state": "CO",
+        "street": "7392 MCLAUGHLIN RD",
+        "zip": "80831"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2191255 ",
+        "number": "2191252 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "9199",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "9199",
+    "storeSeoUrl": "/locator/walgreens-7392+mclaughlin+rd-falcon-co-80831/id=9199",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900cb4a-0000-0700-0000-603156740000\"",
+    "_rid": "rPxrAIcmtHwjAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwjAAAAAAAAAA==/",
+    "_ts": 1613846132,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81212"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 32.1,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "9393",
+    "lastFetched": "2021-02-20T18:35:33.575Z",
+    "latitude": "38.44741002",
+    "longitude": "-105.22526516",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "CANON CITY",
+        "county": "FREMONT",
+        "intersection": "Northeast corner OF 16TH & HWY 50",
+        "locationName": null,
+        "postalCode": "2403",
+        "state": "CO",
+        "street": "1609 FREMONT DR",
+        "zip": "81212"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2762312 ",
+        "number": "2751267 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "9393",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "9393",
+    "storeSeoUrl": "/locator/walgreens-1609+fremont+dr-canon+city-co-81212/id=9393",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900764b-0000-0700-0000-603156820000\"",
+    "_rid": "rPxrAIcmtHweAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHweAAAAAAAAAA==/",
+    "_ts": 1613846146,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80863"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 23.42,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "9561",
+    "lastFetched": "2021-02-20T18:35:47.549Z",
+    "latitude": "38.98236904",
+    "longitude": "-105.04429002",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "WOODLAND PARK",
+        "county": "TELLER",
+        "intersection": "Northwest corner OF ASPEN GROVE & HIGHWAY 24",
+        "locationName": null,
+        "postalCode": "9002",
+        "state": "CO",
+        "street": "140 PARADISE CIR",
+        "zip": "80863"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "9PM",
+          "date": "02/21/2021",
+          "open": "9AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "6878259 ",
+        "number": "6878104 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "9PM",
+      "storeNumber": "9561",
+      "storeOpenTime": "9AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "9561",
+    "storeSeoUrl": "/locator/walgreens-140+paradise+cir-woodland+park-co-80863/id=9561",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"19002f4a-0000-0700-0000-603156670000\"",
+    "_rid": "rPxrAIcmtHwkAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwkAAAAAAAAAA==/",
+    "_ts": 1613846119,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81004"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 32.81,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "9568",
+    "lastFetched": "2021-02-20T18:35:21.076Z",
+    "latitude": "38.26549215",
+    "longitude": "-104.62774932",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "PUEBLO",
+        "county": "PUEBLO",
+        "intersection": "Southeast corner OF 4TH & ABRIENDO",
+        "locationName": null,
+        "postalCode": "1207",
+        "state": "CO",
+        "street": "1520 W 4TH ST",
+        "zip": "81004"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "4040072 ",
+        "number": "4040069 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "9568",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "9568",
+    "storeSeoUrl": "/locator/walgreens-1520+w+4th+st-pueblo-co-81004/id=9568",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"19001f4c-0000-0700-0000-603156900000\"",
+    "_rid": "rPxrAIcmtHwgAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwgAAAAAAAAAA==/",
+    "_ts": 1613846160,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81007"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 28.07,
+    "drive": "0",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "9569",
+    "lastFetched": "2021-02-20T18:36:02.101Z",
+    "latitude": "38.32578919",
+    "longitude": "-104.70178297",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "PUEBLO WEST",
+        "county": "PUEBLO",
+        "intersection": "Northwest corner OF PURCELL & HIGHWAY 50",
+        "locationName": null,
+        "postalCode": "4438",
+        "state": "CO",
+        "street": "958 HAILEY LN",
+        "zip": "81007"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "4040084 ",
+        "number": "4040081 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "9569",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "9569",
+    "storeSeoUrl": "/locator/walgreens-958+hailey+ln-pueblo+west-co-81007/id=9569",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900a14a-0000-0700-0000-603156700000\"",
+    "_rid": "rPxrAIcmtHwIAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwIAAAAAAAAAA==/",
+    "_ts": 1613846128,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80906"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 6.41,
+    "drive": "1",
+    "driveThruClose": "0",
+    "feeEligible": "N",
+    "id": "9767",
+    "lastFetched": "2021-02-20T18:35:29.328Z",
+    "latitude": "38.80652903",
+    "longitude": "-104.82088819",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Northeast corner OF NEVADA AVE & SOUTHGATE RD",
+        "locationName": null,
+        "postalCode": "2452",
+        "state": "CO",
+        "street": "1855 SOUTHGATE RD",
+        "zip": "80906"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "12AM",
+          "date": "02/21/2021",
+          "open": "12AM",
+          "service": "SP"
+        },
+        {
+          "close": "12AM",
+          "date": "02/21/2021",
+          "open": "12AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "12AM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2am",
+          "message": "Pharmacy closed 1:30 - 2am for meal break",
+          "startTime": "1:30am",
+          "status": "closed"
+        }
+      ],
+      "pharmacyOpenTime": "12AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "4730614 ",
+        "number": "4737300 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "t4hr",
+          "name": "Store Open 24 hours"
+        },
+        {
+          "code": "t4hr_rx",
+          "name": "Pharmacy Open 24 hours"
+        },
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "12AM",
+      "storeNumber": "9767",
+      "storeOpenTime": "12AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "9767",
+    "storeSeoUrl": "/locator/walgreens-1855+southgate+rd-colorado+springs-co-80906/id=9767",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900d74c-0000-0700-0000-6031569e0000\"",
+    "_rid": "rPxrAIcmtHwYAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwYAAAAAAAAAA==/",
+    "_ts": 1613846174,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "80918"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.00",
+    "distance": 14.34,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "9768",
+    "lastFetched": "2021-02-20T18:36:16.310Z",
+    "latitude": "38.93748893",
+    "longitude": "-104.75724319",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.73,-104.7536&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "COLORADO SPRINGS",
+        "county": "EL PASO",
+        "intersection": "Southwest corner OF RANGEWOOD & WOODMEN",
+        "locationName": null,
+        "postalCode": "7701",
+        "state": "CO",
+        "street": "7390 RANGEWOOD DR",
+        "zip": "80918"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "10PM",
+          "date": "02/21/2021",
+          "open": "7AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "719",
+        "faxNumber": "2191474 ",
+        "number": "2191471 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "10PM",
+      "storeNumber": "9768",
+      "storeOpenTime": "7AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "9768",
+    "storeSeoUrl": "/locator/walgreens-7390+rangewood+dr-colorado+springs-co-80918/id=9768",
+    "sts": "1"
+  },
+  {
+    "_attachments": "attachments/",
+    "_etag": "\"1900464c-0000-0700-0000-603156940000\"",
+    "_rid": "rPxrAIcmtHwDAAAAAAAAAA==",
+    "_self": "dbs/rPxrAA==/colls/rPxrAIcmtHw=/docs/rPxrAIcmtHwDAAAAAAAAAA==/",
+    "_ts": 1613846164,
+    "availability": {
+      "appointmentsAvailable": false,
+      "days": 3,
+      "radius": 1,
+      "stateCode": "CO",
+      "stateName": "Colorado",
+      "zipCode": "81501"
+    },
+    "bag": "0",
+    "beaconInd": "false",
+    "clinicId": "0",
+    "curb": "0",
+    "curbPickupCloseHr": "9.00pm",
+    "curbPickupOpenHr": "9.00am",
+    "curbSideClose": "0",
+    "deliveryFee": "0.0",
+    "distance": 37,
+    "drive": "1",
+    "driveThruClose": "1",
+    "feeEligible": "N",
+    "id": "9769",
+    "lastFetched": "2021-02-20T18:36:06.217Z",
+    "latitude": "39.077899",
+    "longitude": "-108.513899",
+    "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|38.6784,-108.9719&client=gme-walgreens&sensor=false&channel=108",
+    "odd": "0",
+    "photoInd": "true",
+    "rxRetailCurbSide": "0",
+    "rxRetailFlag": "0",
+    "sdp": "1",
+    "store": {
+      "address": {
+        "city": "GRAND JUNCTION",
+        "county": "MESA",
+        "intersection": "Northeast corner OF 29TH RD & NORTH AVE",
+        "locationName": null,
+        "postalCode": "5315",
+        "state": "CO",
+        "street": "2900 NORTH AVE",
+        "zip": "81504"
+      },
+      "brand": "Walgreens",
+      "emergencyCode": "0",
+      "name": "Walgreen Drug Store",
+      "nextAvailableDay": [
+        {
+          "close": "9PM",
+          "date": "02/21/2021",
+          "open": "9AM",
+          "service": "SP"
+        },
+        {
+          "close": "6PM",
+          "date": "02/21/2021",
+          "open": "10AM",
+          "service": "PP"
+        }
+      ],
+      "pharmacyCloseTime": "6PM",
+      "pharmacyMealBreak": [
+        {
+          "endTime": "2pm",
+          "message": "Pharmacist on meal break 1:30 - 2pm",
+          "startTime": "1:30pm",
+          "status": "open"
+        }
+      ],
+      "pharmacyOpenTime": "9AM",
+      "phone": {
+        "areaCode": "970",
+        "faxNumber": "2081017 ",
+        "number": "2081014 ",
+        "type": "store"
+      },
+      "serviceIndicators": [
+        {
+          "code": "dt",
+          "name": "Drive-Thru Pharmacy"
+        },
+        {
+          "code": "imn",
+          "name": "Immunizations"
+        },
+        {
+          "code": "fs",
+          "name": "Flu Shot"
+        },
+        {
+          "code": "phi",
+          "name": "One Hour Photo"
+        },
+        {
+          "code": "rb",
+          "name": "Redbox"
+        }
+      ],
+      "storeBrand": "Walgreens",
+      "storeCloseTime": "9PM",
+      "storeNumber": "9769",
+      "storeOpenTime": "9AM",
+      "storeType": "01",
+      "telepharmacyKiosk": false,
+      "timeZone": "MO"
+    },
+    "storeNumber": "9769",
+    "storeSeoUrl": "/locator/walgreens-2900+north+ave-grand+junction-co-81504/id=9769",
+    "sts": "1"
+  }
 ]
