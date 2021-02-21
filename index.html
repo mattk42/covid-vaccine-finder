@@ -298,8 +298,8 @@
             <div class="modal-body">
               <form action=" https://2jaao2q7b3.execute-api.us-east-2.amazonaws.com/dev/register" method="POST">
                 <div class="mb-3">
-                  <label for="Email1" class="form-label">Email address</label> 
-                  <input name="email" type="email" class="form-control" id="inputEmail1">                                                                                                                                                                                 </div>
+                  <h5>Email Address:</h5>
+                  <input name="email" type="email" class="form-control" id="inputEmail">                                                                                                                                                                                 </div>
                 
                   <h5>Select stores to notify for:</h5>
                   <div class="accordion" id="cvsAccordian">
@@ -313,14 +313,20 @@
                         <div class="accordion-body">
                           
                           
+                            <div class="form-check">
                               <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-AURORA" id="cvs_cities/CO-AURORA">
-                              <label class="form-check-label" for="cvs_cities/CO-AURORA">AURORA, CO</label><br>
+                              <label class="form-check-label" for="cvs_cities/CO-AURORA">AURORA, CO</label>
+                            </div>
                          
+                            <div class="form-check">
                               <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-GLENDALE" id="cvs_cities/CO-GLENDALE">
-                              <label class="form-check-label" for="cvs_cities/CO-GLENDALE">GLENDALE, CO</label><br>
+                              <label class="form-check-label" for="cvs_cities/CO-GLENDALE">GLENDALE, CO</label>
+                            </div>
                          
+                            <div class="form-check">
                               <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-GREELEY" id="cvs_cities/CO-GREELEY">
-                              <label class="form-check-label" for="cvs_cities/CO-GREELEY">GREELEY, CO</label><br>
+                              <label class="form-check-label" for="cvs_cities/CO-GREELEY">GREELEY, CO</label>
+                            </div>
                          
                         </div>
                       </div>
@@ -354,17 +360,25 @@
                         <div class="accordion-body">
                           
                           
-                            <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="10307" id="walgreens_stores/10307">
-                            <label class="form-check-label" for="walgreens_stores/10307">240 W PARK DR, GRAND JUNCTION, CO 81505</label><br>
+                            <div class="form-check">
+                              <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="10307" id="walgreens_stores/10307">
+                              <label class="form-check-label" for="walgreens_stores/10307">240 W PARK DR, GRAND JUNCTION, CO 81505</label>
+                            </div>
                           
-                            <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="11187" id="walgreens_stores/11187">
-                            <label class="form-check-label" for="walgreens_stores/11187">316 W ASPEN AVE, FRUITA, CO 81521</label><br>
+                            <div class="form-check">
+                              <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="11187" id="walgreens_stores/11187">
+                              <label class="form-check-label" for="walgreens_stores/11187">316 W ASPEN AVE, FRUITA, CO 81521</label>
+                            </div>
                           
-                            <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="6108" id="walgreens_stores/6108">
-                            <label class="form-check-label" for="walgreens_stores/6108">572 32 RD, CLIFTON, CO 81520</label><br>
+                            <div class="form-check">
+                              <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="6108" id="walgreens_stores/6108">
+                              <label class="form-check-label" for="walgreens_stores/6108">572 32 RD, CLIFTON, CO 81520</label>
+                            </div>
                           
-                            <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="9769" id="walgreens_stores/9769">
-                            <label class="form-check-label" for="walgreens_stores/9769">2900 NORTH AVE, GRAND JUNCTION, CO 81504</label><br>
+                            <div class="form-check">
+                              <input type="checkbox" class="form-check-input" name="walgreensStores[]" value="9769" id="walgreens_stores/9769">
+                              <label class="form-check-label" for="walgreens_stores/9769">2900 NORTH AVE, GRAND JUNCTION, CO 81504</label>
+                            </div>
                           
                         </div>
                       </div>
