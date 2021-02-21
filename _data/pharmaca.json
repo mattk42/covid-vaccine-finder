@@ -1,12 +1,19 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"17002f10-0000-0700-0000-6032c18f0000\"",
+    "_etag": "\"17003916-0000-0700-0000-6032c20d0000\"",
     "_rid": "HkV9AKiwQisDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisDAAAAAAAAAA==/",
-    "_ts": 1613939087,
+    "_ts": 1613939213,
     "address": "645 S Broadway",
     "address2": "",
+    "anyAppointments": false,
+    "appointments": {
+      "COVID-19 - Pfizer (1st Dose)": [
+      ],
+      "COVID-19 - Pfizer (2nd Dose)": [
+      ]
+    },
     "attributes": "",
     "city": "Boulder",
     "city_state_zip": "Boulder, CO 80305",
@@ -48,6 +55,7 @@
     "hours": "Pharmacy Hours:\r\n\r\nMon-Fri 9am-7pm\r\n\r\nSaturday 9am-6pm\r\n\r\nSunday 10am-6pm",
     "id": "1",
     "image": "",
+    "lastFetched": "2021-02-21T20:26:49.212Z",
     "lat": "39.983738",
     "linked_postid": "0",
     "lng": "-105.250091",
@@ -67,12 +75,19 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"17003b10-0000-0700-0000-6032c1910000\"",
+    "_etag": "\"17000716-0000-0700-0000-6032c2090000\"",
     "_rid": "HkV9AKiwQisEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisEAAAAAAAAAA==/",
-    "_ts": 1613939089,
+    "_ts": 1613939209,
     "address": "2700 Broadway",
     "address2": "",
+    "anyAppointments": false,
+    "appointments": {
+      "COVID-19 - Pfizer (1st Dose)": [
+      ],
+      "COVID-19 - Pfizer (2nd Dose)": [
+      ]
+    },
     "attributes": "",
     "city": "Boulder",
     "city_state_zip": "Boulder, Colorado 80304",
@@ -114,6 +129,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "7",
     "image": "",
+    "lastFetched": "2021-02-21T20:26:44.200Z",
     "lat": "40.026013",
     "linked_postid": "0",
     "lng": "-105.281514",
@@ -133,12 +149,19 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"17000910-0000-0700-0000-6032c18c0000\"",
+    "_etag": "\"1700d115-0000-0700-0000-6032c2040000\"",
     "_rid": "HkV9AKiwQisBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisBAAAAAAAAAA==/",
-    "_ts": 1613939084,
+    "_ts": 1613939204,
     "address": "5910 S University Blvd",
     "address2": "",
+    "anyAppointments": false,
+    "appointments": {
+      "COVID-19 - Pfizer (1st Dose)": [
+      ],
+      "COVID-19 - Pfizer (2nd Dose)": [
+      ]
+    },
     "attributes": "",
     "city": "Greenwood Village",
     "city_state_zip": "Greenwood Village, Colorado 80121",
@@ -180,6 +203,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "8",
     "image": "",
+    "lastFetched": "2021-02-21T20:26:38.216Z",
     "lat": "39.608598",
     "linked_postid": "0",
     "lng": "-104.958208",
