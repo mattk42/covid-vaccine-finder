@@ -296,7 +296,6 @@
               <h5 class="modal-title" id="notificationModalLabel">Notifications</h5>                                                                                                                                                                       <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
             </div>
             <div class="modal-body">
-		          <!-- TODO MAKE THIS DYNAMIC -->
               <form action=" https://2jaao2q7b3.execute-api.us-east-2.amazonaws.com/dev/register" method="POST">
                 <div class="mb-3">
                   <label for="Email1" class="form-label">Email address</label> 
@@ -314,15 +313,21 @@
                         <div class="accordion-body">
                           
                           
-                            <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-AURORA" id="cvs_cities/CO-AURORA">
-                            <label class="form-check-label" for="cvs_cities/CO-AURORA">AURORA, CO</label><br>
-                          
-                            <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-GLENDALE" id="cvs_cities/CO-GLENDALE">
-                            <label class="form-check-label" for="cvs_cities/CO-GLENDALE">GLENDALE, CO</label><br>
-                          
-                            <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-GREELEY" id="cvs_cities/CO-GREELEY">
-                            <label class="form-check-label" for="cvs_cities/CO-GREELEY">GREELEY, CO</label><br>
-                          
+                            <div class="form-group">
+                              <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-AURORA" id="cvs_cities/CO-AURORA">
+                              <label class="form-check-label" for="cvs_cities/CO-AURORA">AURORA, CO</label><br>
+                            </div>
+                         
+                            <div class="form-group">
+                              <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-GLENDALE" id="cvs_cities/CO-GLENDALE">
+                              <label class="form-check-label" for="cvs_cities/CO-GLENDALE">GLENDALE, CO</label><br>
+                            </div>
+                         
+                            <div class="form-group">
+                              <input type="checkbox" class="form-check-input" name="cvsStores[]" value="CO-GREELEY" id="cvs_cities/CO-GREELEY">
+                              <label class="form-check-label" for="cvs_cities/CO-GREELEY">GREELEY, CO</label><br>
+                            </div>
+                         
                         </div>
                       </div>
                     </div>
