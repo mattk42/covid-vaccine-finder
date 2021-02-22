@@ -71,19 +71,21 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"3700accc-0000-0700-0000-603443c90000\"",
+    "_etag": "\"370049e1-0000-0700-0000-603444bc0000\"",
     "_rid": "HkV9AKiwQisEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisEAAAAAAAAAA==/",
-    "_ts": 1614037961,
+    "_ts": 1614038204,
     "address": "2700 Broadway",
     "address2": "",
     "anyAppointments": true,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
-        "2021-02-24 16:20"
+        "2021-02-24 16:20",
+        "2021-03-05 14:40"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
-        "2021-02-24 16:20"
+        "2021-02-24 16:20",
+        "2021-03-05 14:40"
       ]
     },
     "attributes": "",
@@ -127,7 +129,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "7",
     "image": "",
-    "lastFetched": "2021-02-22T23:52:37.605Z",
+    "lastFetched": "2021-02-22T23:56:41.734Z",
     "lat": "40.026013",
     "linked_postid": "0",
     "lng": "-105.281514",
@@ -147,19 +149,17 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"3700f1cc-0000-0700-0000-603443cc0000\"",
+    "_etag": "\"3700fde0-0000-0700-0000-603444b90000\"",
     "_rid": "HkV9AKiwQisBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisBAAAAAAAAAA==/",
-    "_ts": 1614037964,
+    "_ts": 1614038201,
     "address": "5910 S University Blvd",
     "address2": "",
-    "anyAppointments": true,
+    "anyAppointments": false,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
-        "2021-02-24 11:40"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
-        "2021-02-24 11:40"
       ]
     },
     "attributes": "",
@@ -203,7 +203,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "8",
     "image": "",
-    "lastFetched": "2021-02-22T23:52:41.152Z",
+    "lastFetched": "2021-02-22T23:56:37.256Z",
     "lat": "39.608598",
     "linked_postid": "0",
     "lng": "-104.958208",
