@@ -71,20 +71,17 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"3b000447-0000-0700-0000-603470510000\"",
+    "_etag": "\"3b00b356-0000-0700-0000-603471440000\"",
     "_rid": "HkV9AKiwQisEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisEAAAAAAAAAA==/",
-    "_ts": 1614049361,
+    "_ts": 1614049604,
     "address": "2700 Broadway",
     "address2": "",
-    "anyAppointments": true,
+    "anyAppointments": false,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
-        "2021-02-27 12:50"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
-        "2021-02-27 12:50",
-        "2021-02-27 12:55"
       ]
     },
     "attributes": "",
@@ -128,7 +125,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "7",
     "image": "",
-    "lastFetched": "2021-02-23T03:02:37.696Z",
+    "lastFetched": "2021-02-23T03:06:41.091Z",
     "lat": "40.026013",
     "linked_postid": "0",
     "lng": "-105.281514",
@@ -148,17 +145,20 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"3b003b47-0000-0700-0000-603470540000\"",
+    "_etag": "\"3b006e56-0000-0700-0000-603471400000\"",
     "_rid": "HkV9AKiwQisBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisBAAAAAAAAAA==/",
-    "_ts": 1614049364,
+    "_ts": 1614049600,
     "address": "5910 S University Blvd",
     "address2": "",
     "anyAppointments": true,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
+        "2021-02-25 14:10"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
+        "2021-02-25 14:10",
+        "2021-02-25 14:15",
         "2021-02-27 11:15",
         "2021-02-28 10:45",
         "2021-02-28 10:55"
@@ -205,7 +205,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "8",
     "image": "",
-    "lastFetched": "2021-02-23T03:02:41.128Z",
+    "lastFetched": "2021-02-23T03:06:37.716Z",
     "lat": "39.608598",
     "linked_postid": "0",
     "lng": "-104.958208",
