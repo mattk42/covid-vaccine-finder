@@ -1,14 +1,24 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"5f00dd1f-0000-0700-0000-603567d20000\"",
+    "_etag": "\"5f00d541-0000-0700-0000-603568c50000\"",
     "_rid": "HkV9AKiwQisDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisDAAAAAAAAAA==/",
-    "_ts": 1614112722,
+    "_ts": 1614112965,
     "address": "645 S Broadway",
     "address2": "",
-    "anyAppointments": false,
+    "anyAppointments": true,
     "appointments": {
+      "COVID-19 - Pfizer (1st Dose)": [
+        "2021-03-02 12:40"
+      ],
+      "COVID-19 - Pfizer (2nd Dose)": [
+        "2021-03-01 13:40",
+        "2021-03-02 11:05",
+        "2021-03-02 12:40",
+        "2021-03-02 12:45",
+        "2021-03-02 13:40"
+      ]
     },
     "attributes": "",
     "city": "Boulder",
@@ -51,7 +61,7 @@
     "hours": "Pharmacy Hours:\r\n\r\nMon-Fri 9am-7pm\r\n\r\nSaturday 9am-6pm\r\n\r\nSunday 10am-6pm",
     "id": "1",
     "image": "",
-    "lastFetched": "2021-02-23T20:38:41.722Z",
+    "lastFetched": "2021-02-23T20:42:42.144Z",
     "lat": "39.983738",
     "linked_postid": "0",
     "lng": "-105.250091",
@@ -71,10 +81,10 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"5f00b31f-0000-0700-0000-603567d10000\"",
+    "_etag": "\"5f006241-0000-0700-0000-603568c20000\"",
     "_rid": "HkV9AKiwQisEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisEAAAAAAAAAA==/",
-    "_ts": 1614112721,
+    "_ts": 1614112962,
     "address": "2700 Broadway",
     "address2": "",
     "anyAppointments": false,
@@ -125,7 +135,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "7",
     "image": "",
-    "lastFetched": "2021-02-23T20:38:37.475Z",
+    "lastFetched": "2021-02-23T20:42:37.611Z",
     "lat": "40.026013",
     "linked_postid": "0",
     "lng": "-105.281514",
