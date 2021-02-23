@@ -1,10 +1,10 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"3b00478f-0000-0700-0000-603474860000\"",
+    "_etag": "\"3b0031a0-0000-0700-0000-603475760000\"",
     "_rid": "HkV9AKiwQisDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisDAAAAAAAAAA==/",
-    "_ts": 1614050438,
+    "_ts": 1614050678,
     "address": "645 S Broadway",
     "address2": "",
     "anyAppointments": false,
@@ -51,7 +51,7 @@
     "hours": "Pharmacy Hours:\r\n\r\nMon-Fri 9am-7pm\r\n\r\nSaturday 9am-6pm\r\n\r\nSunday 10am-6pm",
     "id": "1",
     "image": "",
-    "lastFetched": "2021-02-23T03:20:38.110Z",
+    "lastFetched": "2021-02-23T03:24:37.622Z",
     "lat": "39.983738",
     "linked_postid": "0",
     "lng": "-105.250091",
@@ -71,20 +71,17 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"3b00918f-0000-0700-0000-6034748a0000\"",
+    "_etag": "\"3b006ea0-0000-0700-0000-603475790000\"",
     "_rid": "HkV9AKiwQisEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisEAAAAAAAAAA==/",
-    "_ts": 1614050442,
+    "_ts": 1614050681,
     "address": "2700 Broadway",
     "address2": "",
-    "anyAppointments": true,
+    "anyAppointments": false,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
-        "2021-02-25 13:20"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
-        "2021-02-25 13:20",
-        "2021-02-25 13:25"
       ]
     },
     "attributes": "",
@@ -128,7 +125,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "7",
     "image": "",
-    "lastFetched": "2021-02-23T03:20:38.716Z",
+    "lastFetched": "2021-02-23T03:24:38.174Z",
     "lat": "40.026013",
     "linked_postid": "0",
     "lng": "-105.281514",
@@ -148,10 +145,10 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"3b009797-0000-0700-0000-603475010000\"",
+    "_etag": "\"3b009ea0-0000-0700-0000-6034757d0000\"",
     "_rid": "HkV9AKiwQisBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisBAAAAAAAAAA==/",
-    "_ts": 1614050561,
+    "_ts": 1614050685,
     "address": "5910 S University Blvd",
     "address2": "",
     "anyAppointments": true,
@@ -204,7 +201,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "8",
     "image": "",
-    "lastFetched": "2021-02-23T03:22:37.410Z",
+    "lastFetched": "2021-02-23T03:24:41.741Z",
     "lat": "39.608598",
     "linked_postid": "0",
     "lng": "-104.958208",
