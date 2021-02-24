@@ -1,10 +1,10 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"17027ab8-0000-0700-0000-6036a5a30000\"",
+    "_etag": "\"170286c4-0000-0700-0000-6036a6910000\"",
     "_rid": "HkV9AKiwQisDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisDAAAAAAAAAA==/",
-    "_ts": 1614194083,
+    "_ts": 1614194321,
     "address": "645 S Broadway",
     "address2": "",
     "anyAppointments": true,
@@ -16,7 +16,6 @@
         "2021-02-27 15:25",
         "2021-03-02 11:05",
         "2021-03-05 10:55",
-        "2021-03-05 11:40",
         "2021-03-05 14:35",
         "2021-03-05 16:25"
       ]
@@ -62,7 +61,7 @@
     "hours": "Pharmacy Hours:\r\n\r\nMon-Fri 9am-7pm\r\n\r\nSaturday 9am-6pm\r\n\r\nSunday 10am-6pm",
     "id": "1",
     "image": "",
-    "lastFetched": "2021-02-24T19:14:40.843Z",
+    "lastFetched": "2021-02-24T19:18:37.709Z",
     "lat": "39.983738",
     "linked_postid": "0",
     "lng": "-105.250091",
@@ -159,10 +158,10 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"1702d8b8-0000-0700-0000-6036a5a80000\"",
+    "_etag": "\"1702cec4-0000-0700-0000-6036a6950000\"",
     "_rid": "HkV9AKiwQisBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisBAAAAAAAAAA==/",
-    "_ts": 1614194088,
+    "_ts": 1614194325,
     "address": "5910 S University Blvd",
     "address2": "",
     "anyAppointments": false,
@@ -213,7 +212,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "8",
     "image": "",
-    "lastFetched": "2021-02-24T19:14:44.003Z",
+    "lastFetched": "2021-02-24T19:18:41.560Z",
     "lat": "39.608598",
     "linked_postid": "0",
     "lng": "-104.958208",
