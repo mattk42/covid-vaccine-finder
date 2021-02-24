@@ -78,20 +78,17 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"10026c03-0000-0700-0000-6035a5380000\"",
+    "_etag": "\"10029605-0000-0700-0000-6035a6290000\"",
     "_rid": "HkV9AKiwQisEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisEAAAAAAAAAA==/",
-    "_ts": 1614128440,
+    "_ts": 1614128681,
     "address": "2700 Broadway",
     "address2": "",
-    "anyAppointments": true,
+    "anyAppointments": false,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
-        "2021-02-25 13:20"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
-        "2021-02-25 13:20",
-        "2021-02-25 13:25"
       ]
     },
     "attributes": "",
@@ -135,7 +132,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "7",
     "image": "",
-    "lastFetched": "2021-02-24T01:00:37.533Z",
+    "lastFetched": "2021-02-24T01:04:37.556Z",
     "lat": "40.026013",
     "linked_postid": "0",
     "lng": "-105.281514",
@@ -155,20 +152,17 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"10027b03-0000-0700-0000-6035a53c0000\"",
+    "_etag": "\"1002a405-0000-0700-0000-6035a62f0000\"",
     "_rid": "HkV9AKiwQisBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisBAAAAAAAAAA==/",
-    "_ts": 1614128444,
+    "_ts": 1614128687,
     "address": "5910 S University Blvd",
     "address2": "",
-    "anyAppointments": true,
+    "anyAppointments": false,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
-        "2021-03-06 15:40"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
-        "2021-03-06 15:40",
-        "2021-03-06 15:45"
       ]
     },
     "attributes": "",
@@ -212,7 +206,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "8",
     "image": "",
-    "lastFetched": "2021-02-24T01:00:40.797Z",
+    "lastFetched": "2021-02-24T01:04:42.081Z",
     "lat": "39.608598",
     "linked_postid": "0",
     "lng": "-104.958208",
