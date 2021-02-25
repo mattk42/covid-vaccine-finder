@@ -1,10 +1,10 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"26025179-0000-0700-0000-6038366d0000\"",
+    "_etag": "\"2602c77c-0000-0700-0000-6038375e0000\"",
     "_rid": "HkV9AKiwQisDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisDAAAAAAAAAA==/",
-    "_ts": 1614296685,
+    "_ts": 1614296926,
     "address": "645 S Broadway",
     "address2": "",
     "anyAppointments": true,
@@ -56,7 +56,7 @@
     "hours": "Pharmacy Hours:\r\n\r\nMon-Fri 9am-7pm\r\n\r\nSaturday 9am-6pm\r\n\r\nSunday 10am-6pm",
     "id": "1",
     "image": "",
-    "lastFetched": "2021-02-25T23:44:41.929Z",
+    "lastFetched": "2021-02-25T23:48:42.764Z",
     "lat": "39.983738",
     "linked_postid": "0",
     "lng": "-105.250091",
@@ -76,10 +76,10 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"26026379-0000-0700-0000-603836710000\"",
+    "_etag": "\"2602b37c-0000-0700-0000-6038375a0000\"",
     "_rid": "HkV9AKiwQisEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisEAAAAAAAAAA==/",
-    "_ts": 1614296689,
+    "_ts": 1614296922,
     "address": "2700 Broadway",
     "address2": "",
     "anyAppointments": false,
@@ -130,7 +130,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "7",
     "image": "",
-    "lastFetched": "2021-02-25T23:44:45.148Z",
+    "lastFetched": "2021-02-25T23:48:38.055Z",
     "lat": "40.026013",
     "linked_postid": "0",
     "lng": "-105.281514",
@@ -150,17 +150,20 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"26024479-0000-0700-0000-603836690000\"",
+    "_etag": "\"2602d37c-0000-0700-0000-603837620000\"",
     "_rid": "HkV9AKiwQisBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisBAAAAAAAAAA==/",
-    "_ts": 1614296681,
+    "_ts": 1614296930,
     "address": "5910 S University Blvd",
     "address2": "",
     "anyAppointments": true,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
+        "2021-02-27 10:40"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
+        "2021-02-27 10:40",
+        "2021-02-27 10:45",
         "2021-03-02 17:05"
       ]
     },
@@ -205,7 +208,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "8",
     "image": "",
-    "lastFetched": "2021-02-25T23:44:37.941Z",
+    "lastFetched": "2021-02-25T23:48:46.643Z",
     "lat": "39.608598",
     "linked_postid": "0",
     "lng": "-104.958208",
