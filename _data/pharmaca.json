@@ -150,20 +150,17 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"23024529-0000-0700-0000-6037e98c0000\"",
+    "_etag": "\"23024e36-0000-0700-0000-6037ea790000\"",
     "_rid": "HkV9AKiwQisBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisBAAAAAAAAAA==/",
-    "_ts": 1614277004,
+    "_ts": 1614277241,
     "address": "5910 S University Blvd",
     "address2": "",
-    "anyAppointments": true,
+    "anyAppointments": false,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
-        "2021-03-05 12:10"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
-        "2021-03-05 12:10",
-        "2021-03-05 12:15"
       ]
     },
     "attributes": "",
@@ -207,7 +204,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "8",
     "image": "",
-    "lastFetched": "2021-02-25T18:16:41.394Z",
+    "lastFetched": "2021-02-25T18:20:37.520Z",
     "lat": "39.608598",
     "linked_postid": "0",
     "lng": "-104.958208",
