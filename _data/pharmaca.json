@@ -1,19 +1,22 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"2502f4c2-0000-0700-0000-603824240000\"",
+    "_etag": "\"25028ac7-0000-0700-0000-603825100000\"",
     "_rid": "HkV9AKiwQisDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisDAAAAAAAAAA==/",
-    "_ts": 1614292004,
+    "_ts": 1614292240,
     "address": "645 S Broadway",
     "address2": "",
     "anyAppointments": true,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
+        "2021-03-03 10:50"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
         "2021-03-01 13:55",
-        "2021-03-02 13:45"
+        "2021-03-02 13:45",
+        "2021-03-03 10:50",
+        "2021-03-03 10:55"
       ]
     },
     "attributes": "",
@@ -57,7 +60,7 @@
     "hours": "Pharmacy Hours:\r\n\r\nMon-Fri 9am-7pm\r\n\r\nSaturday 9am-6pm\r\n\r\nSunday 10am-6pm",
     "id": "1",
     "image": "",
-    "lastFetched": "2021-02-25T22:26:41.720Z",
+    "lastFetched": "2021-02-25T22:30:37.575Z",
     "lat": "39.983738",
     "linked_postid": "0",
     "lng": "-105.250091",
