@@ -1,17 +1,31 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"2502500b-0000-0700-0000-603813410000\"",
+    "_etag": "\"2502ae10-0000-0700-0000-603814310000\"",
     "_rid": "HkV9AKiwQisDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisDAAAAAAAAAA==/",
-    "_ts": 1614287681,
+    "_ts": 1614287921,
     "address": "645 S Broadway",
     "address2": "",
-    "anyAppointments": false,
+    "anyAppointments": true,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
+        "2021-03-01 13:45",
+        "2021-03-01 13:50",
+        "2021-03-01 13:55",
+        "2021-03-01 14:00",
+        "2021-03-02 13:45",
+        "2021-03-02 13:50"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
+        "2021-03-01 13:45",
+        "2021-03-01 13:50",
+        "2021-03-01 13:55",
+        "2021-03-01 14:00",
+        "2021-03-01 14:05",
+        "2021-03-02 13:45",
+        "2021-03-02 13:50",
+        "2021-03-02 13:55"
       ]
     },
     "attributes": "",
@@ -55,7 +69,7 @@
     "hours": "Pharmacy Hours:\r\n\r\nMon-Fri 9am-7pm\r\n\r\nSaturday 9am-6pm\r\n\r\nSunday 10am-6pm",
     "id": "1",
     "image": "",
-    "lastFetched": "2021-02-25T21:14:37.736Z",
+    "lastFetched": "2021-02-25T21:18:38.067Z",
     "lat": "39.983738",
     "linked_postid": "0",
     "lng": "-105.250091",
@@ -75,10 +89,10 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"2502eb0d-0000-0700-0000-603813b90000\"",
+    "_etag": "\"2502d410-0000-0700-0000-603814360000\"",
     "_rid": "HkV9AKiwQisEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisEAAAAAAAAAA==/",
-    "_ts": 1614287801,
+    "_ts": 1614287926,
     "address": "2700 Broadway",
     "address2": "",
     "anyAppointments": false,
@@ -129,7 +143,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "7",
     "image": "",
-    "lastFetched": "2021-02-25T21:16:37.477Z",
+    "lastFetched": "2021-02-25T21:18:41.549Z",
     "lat": "40.026013",
     "linked_postid": "0",
     "lng": "-105.281514",
