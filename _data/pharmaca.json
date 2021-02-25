@@ -94,24 +94,20 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"2502a921-0000-0700-0000-603816180000\"",
+    "_etag": "\"2502442c-0000-0700-0000-603817010000\"",
     "_rid": "HkV9AKiwQisEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisEAAAAAAAAAA==/",
-    "_ts": 1614288408,
+    "_ts": 1614288641,
     "address": "2700 Broadway",
     "address2": "",
     "anyAppointments": true,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
-        "2021-03-06 12:00",
-        "2021-03-06 12:05",
         "2021-03-06 12:10",
         "2021-03-06 12:15",
         "2021-03-06 12:20"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
-        "2021-03-06 12:00",
-        "2021-03-06 12:05",
         "2021-03-06 12:10",
         "2021-03-06 12:15",
         "2021-03-06 12:20",
@@ -159,7 +155,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "7",
     "image": "",
-    "lastFetched": "2021-02-25T21:26:44.672Z",
+    "lastFetched": "2021-02-25T21:30:37.741Z",
     "lat": "40.026013",
     "linked_postid": "0",
     "lng": "-105.281514",
@@ -179,22 +175,18 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"25026b21-0000-0700-0000-603816140000\"",
+    "_etag": "\"2502632c-0000-0700-0000-603817040000\"",
     "_rid": "HkV9AKiwQisBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisBAAAAAAAAAA==/",
-    "_ts": 1614288404,
+    "_ts": 1614288644,
     "address": "5910 S University Blvd",
     "address2": "",
     "anyAppointments": true,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
-        "2021-03-06 12:15",
-        "2021-03-06 12:20"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
-        "2021-03-06 12:15",
-        "2021-03-06 12:20",
-        "2021-03-06 12:25"
+        "2021-03-06 12:15"
       ]
     },
     "attributes": "",
@@ -238,7 +230,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "8",
     "image": "",
-    "lastFetched": "2021-02-25T21:26:41.082Z",
+    "lastFetched": "2021-02-25T21:30:41.432Z",
     "lat": "39.608598",
     "linked_postid": "0",
     "lng": "-104.958208",
