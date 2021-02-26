@@ -1,10 +1,10 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"6d0017c2-0000-0700-0000-6038a5140000\"",
+    "_etag": "\"6d0043cc-0000-0700-0000-6038a5910000\"",
     "_rid": "HkV9AO6grOsCAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AO6grOs=/docs/HkV9AO6grOsCAAAAAAAAAA==/",
-    "_ts": 1614325012,
+    "_ts": 1614325137,
     "availability": {
       "appointmentsAvailable": false,
       "days": 2,
@@ -26,7 +26,7 @@
     "driveThruClose": "0",
     "feeEligible": "N",
     "id": "10307",
-    "lastFetched": "2021-02-26T07:36:52.516Z",
+    "lastFetched": "2021-02-26T07:38:51.198Z",
     "latitude": "39.09135411",
     "longitude": "-108.5726593",
     "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|39.2554,-108.9296&client=gme-walgreens&sensor=false&channel=108",
@@ -115,10 +115,10 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"6d00edc1-0000-0700-0000-6038a5120000\"",
+    "_etag": "\"6d00b0cb-0000-0700-0000-6038a5880000\"",
     "_rid": "HkV9AO6grOsBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AO6grOs=/docs/HkV9AO6grOsBAAAAAAAAAA==/",
-    "_ts": 1614325010,
+    "_ts": 1614325128,
     "availability": {
       "appointmentsAvailable": false,
       "days": 2,
@@ -140,7 +140,7 @@
     "driveThruClose": "0",
     "feeEligible": "N",
     "id": "11187",
-    "lastFetched": "2021-02-26T07:36:49.936Z",
+    "lastFetched": "2021-02-26T07:38:48.645Z",
     "latitude": "39.15827289",
     "longitude": "-108.73654432",
     "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|39.2554,-108.9296&client=gme-walgreens&sensor=false&channel=108",
@@ -229,10 +229,10 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"6d00dcc1-0000-0700-0000-6038a5100000\"",
+    "_etag": "\"6d00cdcb-0000-0700-0000-6038a58a0000\"",
     "_rid": "HkV9AO6grOsEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AO6grOs=/docs/HkV9AO6grOsEAAAAAAAAAA==/",
-    "_ts": 1614325008,
+    "_ts": 1614325130,
     "availability": {
       "appointmentsAvailable": false,
       "days": 2,
@@ -254,7 +254,7 @@
     "driveThruClose": "0",
     "feeEligible": "N",
     "id": "6108",
-    "lastFetched": "2021-02-26T07:36:48.611Z",
+    "lastFetched": "2021-02-26T07:38:49.941Z",
     "latitude": "39.08770205",
     "longitude": "-108.45916426",
     "mapUrl": "https://maps.googleapis.com/maps/api/staticmap?size=451x451&markers=icon:http://www.walgreens.com/images/gmap/markers/point_wag.png|shadow:true|39.2554,-108.9296&client=gme-walgreens&sensor=false&channel=108",
