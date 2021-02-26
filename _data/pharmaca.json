@@ -1,20 +1,17 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"3102126b-0000-0700-0000-603977fc0000\"",
+    "_etag": "\"31020a75-0000-0700-0000-603978ec0000\"",
     "_rid": "HkV9AKiwQisDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisDAAAAAAAAAA==/",
-    "_ts": 1614379004,
+    "_ts": 1614379244,
     "address": "645 S Broadway",
     "address2": "",
     "anyAppointments": true,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
-        "2021-03-06 10:40"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
-        "2021-03-06 10:40",
-        "2021-03-06 10:45",
         "2021-03-07 16:10",
         "2021-03-07 16:35",
         "2021-03-08 15:10",
@@ -26,7 +23,10 @@
         "2021-03-09 15:10",
         "2021-03-09 16:25",
         "2021-03-10 15:10",
-        "2021-03-10 15:25"
+        "2021-03-10 15:25",
+        "2021-03-11 15:10",
+        "2021-03-11 15:25",
+        "2021-03-11 15:40"
       ]
     },
     "attributes": "",
@@ -70,7 +70,7 @@
     "hours": "Pharmacy Hours:\r\n\r\nMon-Fri 9am-7pm\r\n\r\nSaturday 9am-6pm\r\n\r\nSunday 10am-6pm",
     "id": "1",
     "image": "",
-    "lastFetched": "2021-02-26T22:36:37.562Z",
+    "lastFetched": "2021-02-26T22:40:37.516Z",
     "lat": "39.983738",
     "linked_postid": "0",
     "lng": "-105.250091",
@@ -90,10 +90,10 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"31029f6b-0000-0700-0000-603978060000\"",
+    "_etag": "\"31025f75-0000-0700-0000-603978f50000\"",
     "_rid": "HkV9AKiwQisEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisEAAAAAAAAAA==/",
-    "_ts": 1614379014,
+    "_ts": 1614379253,
     "address": "2700 Broadway",
     "address2": "",
     "anyAppointments": true,
@@ -109,7 +109,6 @@
         "2021-03-08 11:35",
         "2021-03-08 11:55",
         "2021-03-08 15:25",
-        "2021-03-09 14:10",
         "2021-03-09 14:25",
         "2021-03-09 15:55",
         "2021-03-10 10:30",
@@ -164,7 +163,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "7",
     "image": "",
-    "lastFetched": "2021-02-26T22:36:44.863Z",
+    "lastFetched": "2021-02-26T22:40:45.100Z",
     "lat": "40.026013",
     "linked_postid": "0",
     "lng": "-105.281514",
