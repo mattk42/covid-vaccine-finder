@@ -1,10 +1,10 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"2f02697b-0000-0700-0000-6039428e0000\"",
+    "_etag": "\"2f02f087-0000-0700-0000-6039437e0000\"",
     "_rid": "HkV9AKiwQisDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisDAAAAAAAAAA==/",
-    "_ts": 1614365326,
+    "_ts": 1614365566,
     "address": "645 S Broadway",
     "address2": "",
     "anyAppointments": false,
@@ -55,7 +55,7 @@
     "hours": "Pharmacy Hours:\r\n\r\nMon-Fri 9am-7pm\r\n\r\nSaturday 9am-6pm\r\n\r\nSunday 10am-6pm",
     "id": "1",
     "image": "",
-    "lastFetched": "2021-02-26T18:48:42.032Z",
+    "lastFetched": "2021-02-26T18:52:42.082Z",
     "lat": "39.983738",
     "linked_postid": "0",
     "lng": "-105.250091",
@@ -149,17 +149,20 @@
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"2f028f7b-0000-0700-0000-603942910000\"",
+    "_etag": "\"2f02b487-0000-0700-0000-603943790000\"",
     "_rid": "HkV9AKiwQisBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AKiwQis=/docs/HkV9AKiwQisBAAAAAAAAAA==/",
-    "_ts": 1614365329,
+    "_ts": 1614365561,
     "address": "5910 S University Blvd",
     "address2": "",
-    "anyAppointments": false,
+    "anyAppointments": true,
     "appointments": {
       "COVID-19 - Pfizer (1st Dose)": [
+        "2021-03-01 16:00"
       ],
       "COVID-19 - Pfizer (2nd Dose)": [
+        "2021-03-01 16:00",
+        "2021-03-01 16:05"
       ]
     },
     "attributes": "",
@@ -203,7 +206,7 @@
     "hours": "Pharmacy Hours: \r\nMon-Fri 9am-7pm\r\nSaturday 9am-6pm\r\nSunday 10am-6pm",
     "id": "8",
     "image": "",
-    "lastFetched": "2021-02-26T18:48:46.273Z",
+    "lastFetched": "2021-02-26T18:52:37.974Z",
     "lat": "39.608598",
     "linked_postid": "0",
     "lng": "-104.958208",
