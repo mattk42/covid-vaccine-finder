@@ -1,37 +1,37 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"c0021de5-0000-0700-0000-603a0f5e0000\"",
+    "_etag": "\"c102a509-0000-0700-0000-603a0fd70000\"",
     "_rid": "HkV9AM5VkbcBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AM5Vkbc=/docs/HkV9AM5VkbcBAAAAAAAAAA==/",
-    "_ts": 1614417758,
+    "_ts": 1614417879,
     "city": "AURORA",
     "id": "CO-AURORA",
-    "lastFetched": "2021-02-27T09:22:38.371Z",
+    "lastFetched": "2021-02-27T09:24:38.536Z",
     "state": "CO",
     "status": "Fully Booked"
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"c00226e5-0000-0700-0000-603a0f5e0000\"",
+    "_etag": "\"c102ab09-0000-0700-0000-603a0fd70000\"",
     "_rid": "HkV9AM5VkbcCAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AM5Vkbc=/docs/HkV9AM5VkbcCAAAAAAAAAA==/",
-    "_ts": 1614417758,
+    "_ts": 1614417879,
     "city": "GLENDALE",
     "id": "CO-GLENDALE",
-    "lastFetched": "2021-02-27T09:22:38.371Z",
+    "lastFetched": "2021-02-27T09:24:38.536Z",
     "state": "CO",
     "status": "Fully Booked"
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"c0022ae5-0000-0700-0000-603a0f5e0000\"",
+    "_etag": "\"c102ae09-0000-0700-0000-603a0fd70000\"",
     "_rid": "HkV9AM5VkbcDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AM5Vkbc=/docs/HkV9AM5VkbcDAAAAAAAAAA==/",
-    "_ts": 1614417758,
+    "_ts": 1614417879,
     "city": "GREELEY",
     "id": "CO-GREELEY",
-    "lastFetched": "2021-02-27T09:22:38.371Z",
+    "lastFetched": "2021-02-27T09:24:38.536Z",
     "state": "CO",
     "status": "Fully Booked"
   }
