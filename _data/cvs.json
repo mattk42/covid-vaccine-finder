@@ -1,62 +1,62 @@
 [
   {
     "_attachments": "attachments/",
-    "_etag": "\"540054bf-0000-0700-0000-605600070000\"",
+    "_etag": "\"5400cec0-0000-0700-0000-6056007f0000\"",
     "_rid": "HkV9AM5VkbcBAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AM5Vkbc=/docs/HkV9AM5VkbcBAAAAAAAAAA==/",
-    "_ts": 1616248839,
+    "_ts": 1616248959,
     "city": "AURORA",
     "id": "CO-AURORA",
-    "lastFetched": "2021-03-20T14:00:38.432Z",
+    "lastFetched": "2021-03-20T14:02:38.373Z",
     "state": "CO",
     "status": "Fully Booked"
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"540057bf-0000-0700-0000-605600070000\"",
+    "_etag": "\"5400d3c0-0000-0700-0000-6056007f0000\"",
     "_rid": "HkV9AM5VkbcEAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AM5Vkbc=/docs/HkV9AM5VkbcEAAAAAAAAAA==/",
-    "_ts": 1616248839,
+    "_ts": 1616248959,
     "city": "EDGEWATER",
     "id": "CO-EDGEWATER",
-    "lastFetched": "2021-03-20T14:00:38.432Z",
+    "lastFetched": "2021-03-20T14:02:38.373Z",
     "state": "CO",
     "status": "Fully Booked"
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"540055bf-0000-0700-0000-605600070000\"",
+    "_etag": "\"5400cfc0-0000-0700-0000-6056007f0000\"",
     "_rid": "HkV9AM5VkbcCAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AM5Vkbc=/docs/HkV9AM5VkbcCAAAAAAAAAA==/",
-    "_ts": 1616248839,
+    "_ts": 1616248959,
     "city": "GLENDALE",
     "id": "CO-GLENDALE",
-    "lastFetched": "2021-03-20T14:00:38.432Z",
+    "lastFetched": "2021-03-20T14:02:38.373Z",
     "state": "CO",
     "status": "Fully Booked"
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"540056bf-0000-0700-0000-605600070000\"",
+    "_etag": "\"5400d2c0-0000-0700-0000-6056007f0000\"",
     "_rid": "HkV9AM5VkbcDAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AM5Vkbc=/docs/HkV9AM5VkbcDAAAAAAAAAA==/",
-    "_ts": 1616248839,
+    "_ts": 1616248959,
     "city": "GREELEY",
     "id": "CO-GREELEY",
-    "lastFetched": "2021-03-20T14:00:38.432Z",
+    "lastFetched": "2021-03-20T14:02:38.373Z",
     "state": "CO",
     "status": "Fully Booked"
   },
   {
     "_attachments": "attachments/",
-    "_etag": "\"540058bf-0000-0700-0000-605600070000\"",
+    "_etag": "\"5400d4c0-0000-0700-0000-6056007f0000\"",
     "_rid": "HkV9AM5VkbcFAAAAAAAAAA==",
     "_self": "dbs/HkV9AA==/colls/HkV9AM5Vkbc=/docs/HkV9AM5VkbcFAAAAAAAAAA==/",
-    "_ts": 1616248839,
+    "_ts": 1616248959,
     "city": "LOVELAND",
     "id": "CO-LOVELAND",
-    "lastFetched": "2021-03-20T14:00:38.432Z",
+    "lastFetched": "2021-03-20T14:02:38.373Z",
     "state": "CO",
-    "status": "Available"
+    "status": "Fully Booked"
   }
 ]
